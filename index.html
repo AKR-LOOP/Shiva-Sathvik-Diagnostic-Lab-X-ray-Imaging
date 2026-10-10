@@ -1,0 +1,259 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#087f83">
+  <meta name="description" content="Explore diagnostic services, laboratory tests and health packages at Shiva Sathivka Diagnostic Center.">
+  <title>Shiva Sathivka Diagnostic Center | Your Health, Our Priority</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="content.js" defer></script>
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="brand" href="#home" aria-label="Shiva Sathivka Diagnostic Center home">
+        <span class="brand-icon" aria-hidden="true">✚</span>
+        <span class="brand-text">
+          <strong>Shiva Sathivka</strong>
+          <small>Diagnostic Center</small>
+        </span>
+      </a>
+
+      <button class="menu-toggle" id="menuToggle" type="button"
+        aria-label="Open navigation" aria-expanded="false" aria-controls="mainNav">
+        <span></span><span></span><span></span>
+      </button>
+
+      <nav class="main-nav" id="mainNav" aria-label="Main navigation">
+        <a href="#home">Home</a>
+        <a href="#services">Services</a>
+        <a href="#tests">Find a Test</a>
+        <a href="#packages">Health Packages</a>
+        <a href="#about">About Us</a>
+        <a href="#contact" class="nav-contact">Contact Us</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero" id="home">
+      <div class="hero-orb orb-one"></div>
+      <div class="hero-orb orb-two"></div>
+      <div class="container hero-layout">
+        <div class="hero-content">
+          <span class="eyebrow"><span class="pulse-dot"></span> CARE THAT STARTS WITH YOU</span>
+          <h1>Better Health Begins With <span>Better Diagnosis.</span></h1>
+          <p>
+            Your health matters. Explore diagnostic services, laboratory tests
+            and health packages designed to help you take informed steps toward wellness.
+          </p>
+          <div class="hero-actions">
+            <a href="#tests" class="button button-primary">Find a Test <span>→</span></a>
+            <a href="#services" class="button button-outline">Explore Services</a>
+          </div>
+          <div class="hero-trust">
+            <span class="trust-icon">✓</span>
+            <span>Personal attention</span>
+            <span class="trust-divider"></span>
+            <span class="trust-icon">✓</span>
+            <span>Health-focused care</span>
+          </div>
+        </div>
+
+        <div class="hero-visual" aria-label="Diagnostic care illustration">
+          <div class="hero-circle">
+            <div class="medical-cross">✚</div>
+            <div class="hero-card hero-card-top">
+              <span class="mini-icon">♡</span>
+              <span><strong>Your health</strong><small>Comes first</small></span>
+            </div>
+            <div class="hero-card hero-card-bottom">
+              <span class="mini-icon">✓</span>
+              <span><strong>Diagnostic care</strong><small>Explore our services</small></span>
+            </div>
+            <div class="orbit orbit-a"></div>
+            <div class="orbit orbit-b"></div>
+          </div>
+          <span class="floating-plus plus-one">+</span>
+          <span class="floating-plus plus-two">+</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="quick-info">
+      <div class="container quick-info-grid">
+        <div class="quick-info-item">
+          <span class="quick-icon">✚</span>
+          <div><strong>Diagnostic Services</strong><small>Explore available categories</small></div>
+        </div>
+        <div class="quick-info-item">
+          <span class="quick-icon">⌕</span>
+          <div><strong>Test Finder</strong><small>Search for a test by name</small></div>
+        </div>
+        <div class="quick-info-item">
+          <span class="quick-icon">♡</span>
+          <div><strong>Health Packages</strong><small>Discover wellness options</small></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section services-section" id="services">
+      <div class="container">
+        <div class="section-heading">
+          <span class="eyebrow">OUR SERVICES</span>
+          <h2>Diagnostic Services for <span>Your Health</span></h2>
+          <p>Choose a category to explore the related diagnostic tests.</p>
+        </div>
+
+        <div class="service-grid" id="serviceGrid" aria-live="polite"></div>
+      </div>
+    </section>
+
+    <section class="section test-section" id="tests">
+      <div class="container">
+        <div class="section-heading">
+          <span class="eyebrow">TEST DIRECTORY</span>
+          <h2>Find the Right <span>Diagnostic Test</span></h2>
+          <p>Search by test name or select a service category to see related items.</p>
+        </div>
+
+        <div class="finder-panel" id="testFinder">
+          <div class="finder-top">
+            <div class="search-field">
+              <span aria-hidden="true">⌕</span>
+              <input id="testSearch" type="search" placeholder="Search tests, e.g. CBC, glucose..." autocomplete="off">
+              <button id="clearSearch" type="button" class="clear-search" aria-label="Clear search">×</button>
+            </div>
+            <div class="filter-field">
+              <label for="categoryFilter">Service category</label>
+              <select id="categoryFilter">
+                <option value="">All categories</option>
+              </select>
+            </div>
+          </div>
+          <p class="search-hint" id="searchHint">Choose a category or enter a test name to get started.</p>
+          <div class="results-meta">
+            <span id="resultsCount">Browse our diagnostic categories</span>
+          </div>
+          <div class="test-grid" id="testResults" aria-live="polite"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section packages-section" id="packages">
+      <div class="container">
+        <div class="section-heading">
+          <span class="eyebrow">PREVENTIVE WELLNESS</span>
+          <h2>Health Packages for <span>Everyday Wellness</span></h2>
+          <p>Explore package options and contact us to confirm inclusions, pricing and availability.</p>
+        </div>
+        <div class="package-grid" id="packageGrid"></div>
+        <p class="section-disclaimer">
+          Package details shown here are examples. Please confirm the actual tests,
+          preparation instructions, prices and availability with the center.
+        </p>
+      </div>
+    </section>
+
+    <section class="section about-section" id="about">
+      <div class="container about-layout">
+        <div class="about-art">
+          <div class="about-art-circle">
+            <span class="about-cross">✚</span>
+            <span class="about-caption">Care • Trust • Health</span>
+          </div>
+          <div class="experience-chip">
+            <strong>30+</strong>
+            <span>Years of industry<br>experience*</span>
+          </div>
+        </div>
+        <div class="about-content">
+          <span class="eyebrow">ABOUT OUR CENTER</span>
+          <h2>Focused on Your Health, <span>Built on Trust.</span></h2>
+          <p>
+            Shiva Sathivka Diagnostic Center is focused on helping people explore
+            diagnostic services and make informed decisions about their health.
+          </p>
+          <p>
+            Founded by <strong>Suresh</strong>, the center aims to provide a welcoming
+            experience and clear information about available services.
+          </p>
+          <div class="about-points">
+            <div><span>✓</span> Patient-focused approach</div>
+            <div><span>✓</span> A range of diagnostic categories</div>
+            <div><span>✓</span> Enquiries about tests and packages</div>
+          </div>
+          <a href="#contact" class="button button-primary">Contact Our Center <span>→</span></a>
+          <small class="disclaimer">*Verify experience claims before publishing.</small>
+        </div>
+      </div>
+    </section>
+
+    <section class="section contact-section" id="contact">
+      <div class="container">
+        <div class="section-heading">
+          <span class="eyebrow">GET IN TOUCH</span>
+          <h2>We're Here to <span>Help You</span></h2>
+          <p>Contact the center to check test availability, package details and appointment information.</p>
+        </div>
+
+        <div class="contact-layout">
+          <div class="contact-details">
+            <div class="contact-item">
+              <span class="contact-icon">⌖</span>
+              <div><strong>Our Address</strong><p id="centerAddress">Please update the center address in content.js.</p></div>
+            </div>
+            <div class="contact-item">
+              <span class="contact-icon">☎</span>
+              <div><strong>Phone Number</strong><p id="centerPhone">Please update the phone number in content.js.</p></div>
+            </div>
+            <div class="contact-item">
+              <span class="contact-icon">◷</span>
+              <div><strong>Working Hours</strong><p id="centerHours">Please update the working hours in content.js.</p></div>
+            </div>
+            <div class="contact-note">
+              <strong>Need help choosing a test?</strong>
+              <p>Send an enquiry and our team can help you check the details.</p>
+            </div>
+          </div>
+
+          <form class="contact-form" id="contactForm">
+            <h3>Send an Enquiry</h3>
+            <p>Fill in your details to continue through WhatsApp.</p>
+            <label for="visitorName">Your name</label>
+            <input id="visitorName" name="name" type="text" placeholder="Enter your name" required maxlength="80">
+
+            <label for="visitorPhone">Your phone number</label>
+            <input id="visitorPhone" name="phone" type="tel" placeholder="Enter your phone number" required maxlength="20">
+
+            <label for="visitorMessage">How can we help?</label>
+            <textarea id="visitorMessage" name="message" rows="4" placeholder="Tell us which test or package you want to enquire about..." required maxlength="1000"></textarea>
+
+            <button class="button button-primary button-full" type="submit">Send via WhatsApp <span>→</span></button>
+            <p id="formNote" class="form-note" role="status"></p>
+          </form>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-layout">
+      <a class="brand footer-brand" href="#home">
+        <span class="brand-icon" aria-hidden="true">✚</span>
+        <span class="brand-text"><strong>Shiva Sathivka</strong><small>Diagnostic Center</small></span>
+      </a>
+      <p>Supporting informed healthcare choices through diagnostic services.</p>
+      <span class="copyright">© <span id="currentYear"></span> Shiva Sathivka Diagnostic Center</span>
+    </div>
+    <div class="container footer-disclaimer">
+      Test lists, prices, package inclusions and claims must be confirmed by the center before publication.
+    </div>
+  </footer>
+
+  <a class="back-to-top" href="#home" aria-label="Back to top">↑</a>
+</body>
+</html>
