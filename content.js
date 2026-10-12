@@ -5,13 +5,19 @@ const CENTER_CONTENT = {
   founder: "Suresh",
   experience: "30+ Years of Industry Experience",
 
-  // Updated placeholder center information ready for your actual details.
   phoneDisplay: "+91 98765 43210",
   phoneDigits: "919876543210",
   whatsappDigits: "919876543210",
   address: "Main Road, Near Town Center, Chikkaballapur, Karnataka",
   hours: "Monday - Saturday: 7:00 AM - 8:00 PM, Sunday: 7:00 AM - 1:00 PM"
 };
+
+const OFFERS = [
+  "🎉 Special 20% OFF on Comprehensive Full Body Health Checkups!",
+  "🩸 Free Home Sample Collection Available for Senior Citizens",
+  "⚡ Get Fast & Accurate Lab Reports Within 6 Hours",
+  "🩺 Special Mon Monsoon Infection Screening Packages Now Live"
+];
 
 const SERVICES = [
   { name: "Blood Tests", icon: "🩸", description: "Explore blood tests and routine blood investigations." },
@@ -31,7 +37,6 @@ const SERVICES = [
   { name: "Other Tests", icon: "➕", description: "Ask us about other diagnostic investigations." }
 ];
 
-// Illustrative sample directory. Confirm each test and price with the center.
 const TESTS = [
   { name: "Complete Blood Count (CBC)", category: "Blood Tests", price: null },
   { name: "Hemoglobin (Hb)", category: "Blood Tests", price: null },
@@ -70,56 +75,3 @@ const TESTS = [
   { name: "Prolactin", category: "Hormone Tests", price: null },
   { name: "LH", category: "Hormone Tests", price: null },
   { name: "FSH", category: "Hormone Tests", price: null },
-  { name: "CRP", category: "Infection Tests", price: null },
-  { name: "Dengue Screening", category: "Infection Tests", price: null },
-  { name: "Malaria Screening", category: "Infection Tests", price: null },
-  { name: "Widal Test", category: "Infection Tests", price: null },
-  { name: "Total IgE", category: "Allergy Tests", price: null },
-  { name: "ECG", category: "Cardiac Tests", price: null },
-  { name: "Other Diagnostic Test", category: "Other Tests", price: null }
-];
-
-const PACKAGES = [
-  {
-    name: "Basic Health Checkup",
-    label: "Everyday Wellness",
-    description: "An introductory screening option. Confirm the final test list before booking.",
-    includes: ["Basic screening", "Selected blood tests", "Results discussion"],
-    featured: false
-  },
-  {
-    name: "Diabetes Screening",
-    label: "Blood Sugar Care",
-    description: "A screening package to enquire about if you are monitoring blood glucose.",
-    includes: ["Blood glucose test", "HbA1c enquiry", "Test preparation guidance"],
-    featured: true
-  },
-  {
-    name: "Thyroid Checkup",
-    label: "Thyroid Health",
-    description: "Ask the center about its available thyroid screening options.",
-    includes: ["TSH enquiry", "T3/T4 enquiry", "Availability confirmation"],
-    featured: false
-  },
-  {
-    name: "Liver Health Check",
-    label: "Liver Function",
-    description: "Enquire about available liver function investigations.",
-    includes: ["Liver function enquiry", "Selected investigations", "Preparation guidance"],
-    featured: false
-  },
-  {
-    name: "Kidney Health Check",
-    label: "Kidney Function",
-    description: "Ask about screening options for kidney function.",
-    includes: ["Creatinine enquiry", "Urea enquiry", "Availability confirmation"],
-    featured: false
-  },
-  {
-    name: "Comprehensive Health Checkup",
-    label: "Extended Screening",
-    description: "Discuss a broader screening option with the center before booking.",
-    includes: ["Multiple test categories", "Package details confirmation", "Preparation guidance"],
-    featured: false
-  }
-];
