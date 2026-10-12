@@ -4,16 +4,16 @@
 ========================================== */
 
 :root {
-  --primary: #096a70;        /* A slightly richer, deeper medical teal for authority */
-  --primary-dark: #05484d;   /* Deep clinical navy-teal for high-contrast headings */
-  --primary-light: #e8f7f5;  /* Soft, reassuring mint background tint */
-  --accent: #52c4b2;         /* Vibrant health green for active states and badges */
-  --ink: #143138;            /* Deep charcoal-teal for ultra-readable text (easier on eyes than pure black) */
-  --muted: #5e797e;          /* Balanced secondary gray-teal for descriptions */
-  --border: #d4e7e4;         /* Clean, soft borders that remove harsh lines */
+  --primary: #0f4c81;        /* Deep sapphire blue for clinical authority */
+  --primary-dark: #082846;   /* Rich navy for high-contrast headings */
+  --primary-light: #eaf3fc;  /* Clean, cool medical ice-blue background tint */
+  --accent: #2563eb;         /* Vibrant blue for active states and CTAs */
+  --ink: #1e293b;            /* Dark slate-gray for ultra-readable text */
+  --muted: #64748b;          /* Balanced secondary gray for descriptions */
+  --border: #cbd5e1;         /* Crisp, clean borders */
   --surface: #ffffff;
-  --soft: #f4faf9;           /* Subtle alternate section background */
-  --shadow: 0 14px 38px rgba(9, 106, 112, 0.07); /* Gentle, color-tinted professional shadow */
+  --soft: #f8fafc;           /* Subtle cool alternate section background */
+  --shadow: 0 14px 38px rgba(15, 76, 129, 0.08); /* Cool-tinted professional shadow */
   --radius: 18px;
 }
 
