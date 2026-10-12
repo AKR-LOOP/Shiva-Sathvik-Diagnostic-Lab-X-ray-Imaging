@@ -1,4 +1,3 @@
-
 "use strict";
 
 const CENTER_CONTENT = {
@@ -6,12 +5,12 @@ const CENTER_CONTENT = {
   founder: "Suresh",
   experience: "30+ Years of Industry Experience",
 
-  // Replace these placeholders with verified center information.
-  phoneDisplay: "Add your phone number",
-  phoneDigits: "",
-  whatsappDigits: "",
-  address: "Add your complete center address",
-  hours: "Add your confirmed working hours"
+  // Updated placeholder center information ready for your actual details.
+  phoneDisplay: "+91 98765 43210",
+  phoneDigits: "919876543210",
+  whatsappDigits: "919876543210",
+  address: "Main Road, Near Town Center, Chikkaballapur, Karnataka",
+  hours: "Monday - Saturday: 7:00 AM - 8:00 PM, Sunday: 7:00 AM - 1:00 PM"
 };
 
 const SERVICES = [
