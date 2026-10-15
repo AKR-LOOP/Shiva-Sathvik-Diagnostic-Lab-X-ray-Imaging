@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://akr-loop.github.io/shiva-sathivka-diagnostic-center/sitemap.xml
