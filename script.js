@@ -756,3 +756,28 @@ renderCatalogue();
     });
   }
 })();
+
+/* Hero: every 5 seconds the full "30+ years" animation replaces the headline block, then it
+   switches back. The search box, buttons and trust line never change. */
+(() => {
+  const hero = document.getElementById("home");
+  const tk = document.getElementById("heroTicks");
+  if (!hero || !tk) return;
+  for (let i = 0; i < 30; i++) { const s = document.createElement("i"); s.style.setProperty("--i", i); if ((i + 1) % 10 === 0) s.className = "big"; tk.append(s); }
+  if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+  const num = hero.querySelector(".hy-num b");
+  const count = () => {
+    const t0 = performance.now();
+    (function tick(now) {
+      const p = Math.min((now - t0) / 1200, 1);
+      num.textContent = Math.round(30 * (1 - Math.pow(1 - p, 3))) + "+";
+      if (p < 1) requestAnimationFrame(tick);
+    })(t0);
+  };
+  let timer = null;
+  const flip = () => { const on = hero.classList.toggle("yrs-on"); if (on) count(); };
+  const start = () => { if (!timer) timer = setInterval(flip, 5000); };
+  const stop = () => { clearInterval(timer); timer = null; };
+  start();
+  document.addEventListener("visibilitychange", () => (document.hidden ? stop() : start()));
+})();
