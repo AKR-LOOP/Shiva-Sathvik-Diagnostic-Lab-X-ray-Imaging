@@ -1,797 +1,563 @@
-"use strict";
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0C4A40">
+<meta name="google-site-verification" content="-YXAJVif5ddZC90LSLB95Qt8AsrGE2zU4zXzHdemEms" />
+<title>Shiva Sathvik Diagnostic Lab &amp; X-ray Imaging, Chikkaballapur | Blood Tests, X-ray &amp; Home Collection</title>
+<meta name="description" content="Shiva Sathvik Diagnostic Lab &amp; X-ray Imaging, behind Sadhur Matt, Chikkaballapur 562101. Blood tests, health packages, home sample collection on WhatsApp. Open Mon-Sat 7 AM-8:30 PM. Call 9343601092.">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<link rel="canonical" href="https://akr-loop.github.io/shiva-sathivka-diagnostic-center/">
+<meta property="og:url" content="https://akr-loop.github.io/shiva-sathivka-diagnostic-center/">
+<meta property="og:site_name" content="Shiva Sathvik Diagnostic Lab &amp; X-ray Imaging">
+<meta property="og:locale" content="en_IN">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Shiva Sathvik Diagnostic Lab &amp; X-ray Imaging, Chikkaballapur">
+<meta property="og:description" content="Accurate tests, caring service. Tests, packages and home sample collection on WhatsApp.">
+<meta property="og:image" content="https://akr-loop.github.io/shiva-sathivka-diagnostic-center/images/og-image.jpg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Manrope:wght@500;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<!-- Only verified details are included. Add telephone, street address and geo once confirmed. -->
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":["DiagnosticLab","MedicalBusiness"],"name":"Shiva Sathvik Diagnostic Lab & X-ray Imaging","alternateName":["Shiva Sathvik Diagnostic Lab","Shiva Sathvik Lab","Shiva Sathvika Lab","Shiva Satvika Lab","Shiva Sathvik Diagnostic Center"],"url":"https://akr-loop.github.io/shiva-sathivka-diagnostic-center/","telephone":"+919343601092","description":"Diagnostic laboratory in Chikkaballapur offering blood tests, health packages, X-ray imaging and home sample collection.","address":{"@type":"PostalAddress","streetAddress":"Behind Sadhur Matt","addressLocality":"Chikkaballapur","addressRegion":"Karnataka","postalCode":"562101","addressCountry":"IN"},"geo":{"@type":"GeoCoordinates","latitude":13.4331349,"longitude":77.7250213},"hasMap":"https://www.google.com/maps/place/Shiva+Sathvik+Diagnostic+Lab+%26+X-ray+Imaging/@13.4331349,77.7250213,847m/data=!3m2!1e3!4b1!4m6!3m5!1s0x3bb1ef47480c3b37:0x234728a1f9e0343c!8m2!3d13.4331349!4d77.7250213","openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"opens":"07:00","closes":"20:30"}]}
+</script>
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false"><defs>
+<symbol id="i-microscope" viewBox="0 0 120 120"><g fill="none" stroke="var(--navy)" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"><path d="M78 26c20 8 26 38 8 58-6 7-14 10-24 10"/><rect x="44" y="8" width="18" height="46" rx="4" transform="rotate(20 53 31)" fill="#E6F4EC"/><rect x="52" y="56" width="11" height="15" rx="2" transform="rotate(20 57 63)" fill="var(--teal)"/><path d="M34 82h40"/><path d="M38 94h44v10H38z" fill="var(--gold)"/><path d="M24 104h72"/></g></symbol>
+<symbol id="i-tubes" viewBox="0 0 120 120"><g fill="none" stroke="var(--navy)" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 14v76a9 9 0 0 0 18 0V14z" fill="#fff"/><path d="M14 56v34a9 9 0 0 0 18 0V56z" fill="#E8695A" stroke="none"/><path d="M51 14v76a9 9 0 0 0 18 0V14z" fill="#fff"/><path d="M51 40v50a9 9 0 0 0 18 0V40z" fill="var(--gold)" stroke="none"/><path d="M88 14v76a9 9 0 0 0 18 0V14z" fill="#fff"/><path d="M88 66v24a9 9 0 0 0 18 0V66z" fill="var(--teal)" stroke="none"/><rect x="11" y="7" width="24" height="9" rx="3" fill="var(--navy)"/><rect x="48" y="7" width="24" height="9" rx="3" fill="var(--navy)"/><rect x="85" y="7" width="24" height="9" rx="3" fill="var(--navy)"/><rect x="6" y="60" width="108" height="10" rx="3" fill="#E6F4EC"/></g></symbol>
+<symbol id="i-centrifuge" viewBox="0 0 120 120"><g fill="none" stroke="var(--navy)" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 46v46c0 8 20 14 44 14s44-6 44-14V46z" fill="#fff"/><ellipse cx="60" cy="46" rx="44" ry="16" fill="#E6F4EC"/><ellipse cx="60" cy="46" rx="26" ry="8" fill="var(--teal)"/><path d="M60 46l-18-4M60 46l18-4M60 46v7"/><circle cx="60" cy="84" r="8" fill="var(--gold)"/></g></symbol>
+<symbol id="i-pipette" viewBox="0 0 120 120"><g fill="none" stroke="var(--navy)" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" transform="rotate(35 60 60)"><rect x="50" y="4" width="20" height="26" rx="9" fill="var(--teal)"/><path d="M52 30h16l-2 54H54z" fill="#fff"/><path d="M54 60h12l-1 24H55z" fill="var(--gold)" stroke="none"/><path d="M57 84h6l-3 24z" fill="var(--navy)"/></g></symbol>
+<symbol id="i-cup" viewBox="0 0 120 120"><g fill="none" stroke="var(--navy)" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"><path d="M36 30l-4 72h56l-4-72z" fill="#fff"/><path d="M35 62l-3 40h56l-3-40z" fill="var(--gold)" stroke="none"/><rect x="30" y="16" width="60" height="14" rx="4" fill="var(--teal)"/><path d="M42 80h14"/></g></symbol>
+</defs></svg>
+<a class="skip" href="#main">Skip to main content</a>
+<div id="progress" aria-hidden="true"></div>
 
-/* =====================================================================
-   EDITABLE CONFIGURATION: change values here, the whole page updates.
-   Everything below marked SAMPLE is demonstration data, not confirmed
-   by the laboratory. Replace it before launch.
-   ===================================================================== */
-const BUSINESS_INFO = {
-  name: "Shiva Sathvika Diagnostic Lab",
-  location: "Chikkaballapur, Karnataka, India",
-  hours: "Monday–Saturday, 7:00 AM–8:30 PM",
-  openFrom: "07:00",
-  openTo: "20:30"
-};
-const PHONE_NUMBER = "9343601092";
-const WHATSAPP_NUMBER = "919343601092";   // Digits only with country code. Empty = disabled.
-const SETTINGS = {
-  reportHours: 24,                                   // SAMPLE target, confirm with lab
-  collectionArea: "To be confirmed by the lab",      // REPLACE with real coverage
-  collectionHours: "To be confirmed by the lab",     // REPLACE with real timings
-  freeCollectionMin: 500                             // SAMPLE bill amount (₹)
-};
+<div class="marquee" aria-label="Lab highlights"><div class="marquee-track" id="marquee"></div></div>
 
-const CATS = { H:"Haematology", U:"Urine Analysis", S:"Stool Analysis", B:"Bio-chemistry", L:"Lipid Profile", V:"Liver Function", O:"Hormones", R:"Serology", M:"Microbiology" };
-const CAT_DESC = { H:"A haematology test.", U:"A urine analysis test.", S:"A stool analysis test.", B:"A bio-chemistry test.", L:"A lipid profile test.", V:"A liver function test.", O:"A hormone or related test.", R:"A serology test.", M:"A microbiology or pathology test." };
+<header class="site-header">
+  <div class="wrap bar">
+    <a href="#home" class="brand" aria-label="Shiva Sathvik Diagnostic Lab &amp; X-ray Imaging, home">
+      <span class="cross" aria-hidden="true"></span>
+      <span class="brand-t"><strong>Shiva Sathvik</strong><small>Diagnostic Lab &amp; X-ray Imaging</small></span>
+    </a>
+    <div class="scrim" id="scrim" hidden></div>
+    <nav id="mainNav" class="nav" aria-label="Main">
+      <a href="#home">Home</a><a href="#tests">Tests</a><a href="#packages">Packages</a><a href="#offers" class="nav-offers">Offers <span class="glow mini" aria-hidden="true">%</span></a><a href="#why">Why Us</a><a href="#contact">Contact</a>
+    </nav>
+    <div class="bar-actions">
+      <a class="phone-link" data-phone href="#contact">Call</a>
+      <a class="btn btn-p" href="#contact" data-action="book">Book Home Collection</a>
+      <button class="cart-btn" id="cartBtn" type="button" aria-label="Open My Tests"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 6h2l2.5 11h9L19 9H6"/><circle cx="9" cy="20" r="1.3"/><circle cx="17" cy="20" r="1.3"/></svg><span>My Tests</span><em class="cart-n" hidden>0</em></button>
+      <button class="menu-btn" id="menuBtn" aria-expanded="false" aria-controls="mainNav" aria-label="Open menu"><span></span><span></span><span></span></button>
+    </div>
+  </div>
+</header>
 
-// REAL catalogue, transcribed from the lab's displayed price list. Row: [name, category, price in ₹].
-// Report time, sample type and fasting rules are not on the list, so the site says "confirm with lab".
-const TEST_ROWS = [
-  ["HB%","H",100],["RBC Count","H",50],["WBC Count","H",50],["D.C. (Differential Count)","H",50],["ESR","H",50],["AEC (Absolute Eosinophil Count)","H",150],["CBC","H",300],["PCV","H",30],["MCV","H",30],["MCH","H",30],["MCHC","H",30],["BT (Bleeding Time)","H",50],["CT (Clotting Time)","H",50],["Platelet Count","H",150],["PT with INR","H",450],["Reticulocyte Count","H",400],["LE Cell Phenomenon","H",450],["Peripheral Smear","H",300],["Malarial Parasites","H",200],["Blood Group & Rh","H",50],["Dengue NS1, IgM, IgG","H",500],["Pf / Pv (Malaria)","H",250],
-  ["Urine Sugar","U",20],["Urine Albumin","U",20],["Urine Microscopy","U",20],["Bile Salt","U",20],["Bile Pigment","U",20],["Ketone Bodies","U",150],["24 Hrs Urine Protein","U",500],["Urobilinogen","U",100],["Bence Jones Protein","U",100],["Pregnancy Test","U",100],
-  ["Stool Routine","S",150],["Stool Occult","S",50],["Stool Substances","S",40],
-  ["FBS (Fasting Blood Sugar)","B",50],["PPBS (Post-Prandial Blood Sugar)","B",50],["RBS (Random Blood Sugar)","B",50],["GTT (Glucose Tolerance Test)","B",250],["Glycosylated Hb (HbA1c)","B",500],["Urea","B",100],["S. Creatinine","B",100],["Uric Acid","B",150],["RFT (Renal Function Test)","B",300],["S. Calcium","B",200],["CPK","B",300],["CPK-MB","B",400],["Amylase","B",600],["Sodium","B",150],["Potassium","B",150],["Acid Phosphatase","B",350],["CA 125","B",1000],
-  ["Lipid Profile","L",400],["Total Cholesterol","L",100],["Triglycerides","L",100],["HDL","L",100],["LDL & VLDL","L",200],
-  ["Liver Function Test (LFT)","V",600],["T. Bilirubin","V",100],["D. Bilirubin","V",100],["T. Protein","V",100],["Albumin (Serum)","V",100],["Globulin","V",100],["A/G Ratio","V",100],["SGPT","V",100],["SGOT","V",100],["Alkaline Phosphatase","V",180],
-  ["T3, T4, TSH","O",500],["LH / FSH / Prolactin","O",1200],["Testosterone","O",1200],["TORCH","O",2000],["B-HCG","O",800],
-  ["Widal","R",100],["VDRL","R",150],["RA Factor","R",150],["HIV","R",250],["CRP","R",150],["ASLO","R",150],["Dilution (each)","R",100],["HBsAg","R",200],["Mantoux","R",150],
-  ["Urine (Microbiology)","M",500],["Faeces (Microbiology)","M",500],["Pus (Microbiology)","M",500],["Throat (Microbiology)","M",500],["Swab (Microbiology)","M",500],["Sputum (Microbiology)","M",500],["Sputum for AFB","M",150],["Gram Stain","M",250],["Semen Analysis","M",200],["Blood (Microbiology)","M",650],["Histopathology","M",1000]
-];
-const POPULAR_TEST_IDS = ["cbc","fbs-fasting-blood-sugar","glycosylated-hb-hba1c","lipid-profile","t3-t4-tsh","liver-function-test-lft","rft-renal-function-test","esr","crp","widal"];
+<main id="main">
+<!-- 2. HERO -->
+<section class="hero" id="home">
+  <figure class="photo hero-photo"><svg id="heroArt" class="art hero-art" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice" aria-hidden="true" focusable="false"><defs><linearGradient id="gh" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1B6B58"/><stop offset="1" stop-color="#07332C"/></linearGradient><radialGradient id="rh"><stop offset="0" stop-color="#2FA07A" stop-opacity=".8"/><stop offset="1" stop-color="#2FA07A" stop-opacity="0"/></radialGradient></defs><rect width="100%" height="100%" fill="url(#gh)"/><circle cx="1160" cy="430" r="560" fill="url(#rh)"/><circle class="ring" cx="1160" cy="430" r="330" fill="none" stroke="#fff" stroke-opacity=".22" stroke-width="3" stroke-dasharray="6 14"/><circle class="ring r2" cx="1160" cy="430" r="250" fill="none" stroke="#FFE680" stroke-opacity=".35" stroke-width="3" stroke-dasharray="2 12"/><circle class="bub" cx="1250" cy="770" r="4" style="animation-delay:0.0s;animation-duration:4s"/><circle class="bub" cx="1272" cy="770" r="9" style="animation-delay:0.7s;animation-duration:5s"/><circle class="bub" cx="1295" cy="770" r="7" style="animation-delay:1.4s;animation-duration:6s"/><circle class="bub" cx="1318" cy="770" r="5" style="animation-delay:2.1s;animation-duration:4s"/><circle class="bub" cx="1340" cy="770" r="10" style="animation-delay:2.8s;animation-duration:5s"/><circle class="bub" cx="1362" cy="770" r="8" style="animation-delay:3.5s;animation-duration:6s"/><circle class="bub" cx="1385" cy="770" r="6" style="animation-delay:4.2s;animation-duration:4s"/><circle class="bub" cx="1408" cy="770" r="4" style="animation-delay:4.9s;animation-duration:5s"/><circle class="bub" cx="1430" cy="770" r="9" style="animation-delay:0.6s;animation-duration:6s"/><circle class="bub" cx="1452" cy="770" r="7" style="animation-delay:1.3s;animation-duration:4s"/><circle class="bub" cx="1475" cy="770" r="5" style="animation-delay:2.0s;animation-duration:5s"/><circle class="bub" cx="1498" cy="770" r="10" style="animation-delay:2.7s;animation-duration:6s"/><g class="fl f1"><use href="#i-microscope" x="880" y="150" width="440" height="440"/></g><g class="fl f2"><use href="#i-tubes" x="1230" y="470" width="300" height="300"/></g><g class="fl f3"><use href="#i-cup" x="830" y="540" width="220" height="220"/></g><g class="fl f4"><use href="#i-pipette" x="1330" y="80" width="240" height="240"/></g><circle class="drip" cx="1395" cy="292" r="8" fill="#FFE680"/></svg><video id="heroImg" class="hero-vid" autoplay muted loop playsinline preload="auto" poster="videos/hero-poster.jpg" width="1600" height="900" aria-hidden="true" tabindex="-1" disablepictureinpicture><source src="videos/hero.mp4" type="video/mp4"><source src="videos/hero.webm" type="video/webm"></video><div class="hero-years" aria-hidden="true"><svg viewBox="0 0 460 460" focusable="false"><defs><linearGradient id="hyG" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFE680"/><stop offset="1" stop-color="#2FA07A"/></linearGradient><radialGradient id="hyGlow"><stop offset="0" stop-color="#2FA07A" stop-opacity=".6"/><stop offset="1" stop-color="#2FA07A" stop-opacity="0"/></radialGradient></defs><circle class="lg-glow" cx="230" cy="230" r="215" fill="url(#hyGlow)"/><circle class="lg-dash d1" cx="230" cy="230" r="172" fill="none" stroke="#fff" stroke-opacity=".28" stroke-width="2" stroke-dasharray="3 12"/><circle class="lg-dash d2" cx="230" cy="230" r="108" fill="none" stroke="#FFE680" stroke-opacity=".4" stroke-width="2" stroke-dasharray="2 10"/><circle cx="230" cy="230" r="140" fill="none" stroke="#fff" stroke-opacity=".12" stroke-width="10"/><circle class="hy-ring" cx="230" cy="230" r="140" fill="none" stroke="url(#hyG)" stroke-width="10" stroke-linecap="round" pathLength="100"/><circle class="lg-b" cx="190" cy="330" r="4" style="animation-delay:0s"/><circle class="lg-b" cx="225" cy="340" r="6" style="animation-delay:1.1s"/><circle class="lg-b" cx="262" cy="332" r="4" style="animation-delay:2.2s"/><circle class="lg-b" cx="208" cy="344" r="3" style="animation-delay:3.1s"/><circle class="lg-b" cx="246" cy="346" r="5" style="animation-delay:.6s"/><g class="lg-spin"><g class="lg-ic"><use href="#i-microscope" x="198" y="6" width="64" height="64"/></g><g class="lg-ic"><use href="#i-tubes" x="390" y="198" width="64" height="64"/></g><g class="lg-ic"><use href="#i-centrifuge" x="198" y="390" width="64" height="64"/></g><g class="lg-ic"><use href="#i-cup" x="6" y="198" width="64" height="64"/></g></g></svg><div class="hy-num"><b>30+</b><span>Years of trust</span></div></div><div class="hero-ecg" aria-hidden="true"><svg viewBox="0 0 1200 120" preserveAspectRatio="none" focusable="false"><path class="lg-ecg-base" d="M0 62H180l14-12 14 12H260l8 10 12-56 14 92 10-46H360l18-14 22 14H620l14-12 14 12H700l8 10 12-56 14 92 10-46H800l18-14 22 14H1200" pathLength="1000" vector-effect="non-scaling-stroke"/><path class="lg-ecg-pulse" d="M0 62H180l14-12 14 12H260l8 10 12-56 14 92 10-46H360l18-14 22 14H620l14-12 14 12H700l8 10 12-56 14 92 10-46H800l18-14 22 14H1200" pathLength="1000" vector-effect="non-scaling-stroke"/></svg></div></figure>
+  <div class="wrap hero-c">
+    <div class="hero-swap">
+      <div class="hero-main">
+        <h1>Your Health, Our Priority.</h1>
+        <p class="tagline">Accurate Tests. Caring Service.</p>
+        <p class="lead">Walk in to our Chikkaballapur lab anytime during working hours. No booking needed.</p>
+      </div>
+      <div class="hero-legacy" aria-hidden="true">
+        <p class="lg-eyebrow">30+ years of experience</p>
+        <p class="hl-h">Three decades of careful diagnostics in Chikkaballapur.</p>
+        <div class="ticks" id="heroTicks"></div>
+        <div class="tick-lbl"><span>Year 1</span><span>10</span><span>20</span><span>30+</span></div>
+      </div>
+    </div>
+    <div class="hero-note">
+      <span class="hn-ico" aria-hidden="true">✆</span>
+      <p><strong>Can't come to the lab? Stay home.</strong> Select your tests and tap Book Home Collection. We collect the sample at your home and send your report online.</p>
+    </div>
+    <form class="hero-search" id="heroSearch" role="search">
+      <label class="sr" for="heroQ">Search for a test</label>
+      <input id="heroQ" type="search" placeholder="Search for a test…" autocomplete="off" role="combobox" aria-expanded="false" aria-controls="heroSuggest" aria-autocomplete="list">
+      <button class="btn btn-p" type="submit">Search</button>
+      <ul class="suggest" id="heroSuggest" role="listbox" aria-label="Matching tests" hidden></ul>
+    </form>
+    <div class="hero-btns">
+      <a class="btn btn-p" href="#contact" data-action="book">Book Home Collection</a>
+      <a class="btn btn-o-l" href="#contact">Walk In, No Booking Needed</a>
+    </div>
+    <ul class="trust">
+      <li><span aria-hidden="true">⌂</span> Home Sample Collection</li>
+      <li><span aria-hidden="true">▤</span> Online Reports</li>
+      <li><span aria-hidden="true">★</span> 30+ Years of Experience</li>
+      <li><span aria-hidden="true">✔</span> 1 Million+ Reports Issued</li>
+    </ul>
+  </div>
+</section>
 
-// SAMPLE packages built from the real tests above. The original price is the sum of the test prices;
-// "disc" is a SAMPLE discount percentage. Set the real package prices and discounts when confirmed.
-const PACKAGES = [
-  { name:"Basic Health Check", desc:"A starting set of routine checks.", tests:["CBC","FBS (Fasting Blood Sugar)","Lipid Profile","Urine Sugar","Urine Albumin","Urine Microscopy"], disc:10 },
-  { name:"Full Body Checkup", desc:"A wider panel covering several body systems.", tests:["CBC","ESR","FBS (Fasting Blood Sugar)","Glycosylated Hb (HbA1c)","Lipid Profile","Liver Function Test (LFT)","RFT (Renal Function Test)","T3, T4, TSH","Urine Sugar","Urine Albumin","Urine Microscopy"], disc:20, badge:"Most Popular" },
-  { name:"Diabetes Care", desc:"Sugar-related checks and kidney markers.", tests:["FBS (Fasting Blood Sugar)","PPBS (Post-Prandial Blood Sugar)","Glycosylated Hb (HbA1c)","Urine Sugar","Urine Albumin","RFT (Renal Function Test)"], disc:10 },
-  { name:"Heart Health", desc:"Cholesterol and related heart markers.", tests:["Lipid Profile","CRP","CPK","CPK-MB","FBS (Fasting Blood Sugar)"], disc:10 },
-  { name:"Thyroid Profile", desc:"Thyroid hormones with a blood count and lipid check.", tests:["T3, T4, TSH","CBC","Lipid Profile"], disc:10 },
-  { name:"Senior Citizen", desc:"A routine panel for older adults.", tests:["CBC","FBS (Fasting Blood Sugar)","Glycosylated Hb (HbA1c)","Lipid Profile","Liver Function Test (LFT)","RFT (Renal Function Test)","S. Calcium","Urine Sugar","Urine Albumin"], disc:15 },
-  { name:"Women's Wellness", desc:"Common checks for women's health.", tests:["CBC","ESR","T3, T4, TSH","S. Calcium","Blood Group & Rh","Urine Microscopy"], disc:10 }
-];
+<!-- 3. STATS -->
+<section class="stats" aria-label="Key figures">
+  <div class="wrap stat-grid">
+    <div><b data-count="30" data-suffix="+">30+</b><span>Years of experience</span></div>
+    <div><b data-count="1" data-suffix="M+">1M+</b><span>Reports issued</span></div>
+    <div><b data-count="0" id="statTests">0</b><span>Tests listed</span></div>
+    <div><b data-count="24" id="statHours">24</b><span>Hours: sample report target, confirm with lab</span></div>
+    <div><b>Ask us</b><span>Home sample collection, confirm your area</span></div>
+  </div>
+</section>
 
-// SAMPLE offers. Set expires to "YYYY-MM-DD" only when the lab confirms it. Empty = not confirmed.
-const OFFERS = [
-  { title:"Full Body Checkup discount", desc:"A sample discount on the Full Body Checkup package.", benefit:"20% off", cond:"Package booking only", expires:"" },
-  { title:"Free home collection", desc:"Home collection with no collection charge above a minimum bill.", benefit:"No collection charge", cond:"Bills above ₹" + SETTINGS.freeCollectionMin, expires:"" },
-  { title:"Senior citizen discount", desc:"A sample discount for patients aged 60 and above.", benefit:"10% off", cond:"Age proof may be needed", expires:"" },
-  { title:"Family package discount", desc:"A sample discount when several family members book together.", benefit:"Family rate", cond:"2 or more members", expires:"" },
-  { title:"First-booking discount", desc:"A sample welcome discount for new patients.", benefit:"10% off", cond:"New patients only", expires:"" }
-];
+<!-- 2b. NO NEED TO VISIT -->
+<section class="athome" id="athome" aria-labelledby="athomeH">
+  <div class="wrap">
+    <div class="athome-card reveal">
+      <div class="athome-t">
+        <p class="lg-eyebrow">No need to come to the lab</p>
+        <h2 id="athomeH">Don't want to come? Do it all from home.</h2>
+        <p>Select your tests, tap Book Home Collection and confirm your slot on WhatsApp. Our team collects the sample at your home, and your report comes to you online.</p>
+        <a class="btn btn-g" href="#contact" data-action="book">Book Home Collection</a>
+      </div>
+      <ol class="athome-steps">
+        <li><b>1</b><div><h3>Select your tests</h3><p>Add them to My Tests, then Book Home Collection.</p></div></li>
+        <li><b>2</b><div><h3>We collect at home</h3><p>Our team comes to you for the sample.</p></div></li>
+        <li><b>3</b><div><h3>Get report online</h3><p>No trip to the lab to collect it.</p></div></li>
+      </ol>
+    </div>
+  </div>
+</section>
 
-const REVIEWS = [   // SAMPLE layout content, not real feedback
-  "Sample review text to show how a patient comment will look in this card.",
-  "Another sample comment. Replace with real, permitted patient feedback.",
-  "A third sample entry for the carousel layout.",
-  "A fourth sample entry showing a slightly longer comment so you can check wrapping on small screens."
-];
-const FAQS = [
-  ["Do I need to fast before my test?", "Some tests need fasting and many do not. Please confirm the preparation for your test with the lab before you visit."],
-  ["How long do test reports take?", "Timing depends on the test. Please confirm the expected report time with the lab."],
-  ["Do I need to book to visit the lab?", "No. You can walk in during working hours, Monday to Saturday, 7:00 AM to 8:30 PM. Booking is only needed for home sample collection."],
-  ["How do I book home sample collection?", "Fill in the booking form on this page. It opens WhatsApp with your request ready to send, and the lab confirms your slot and whether it covers your area."],
-  ["What payment methods are accepted?", "Please ask the lab which payment methods it accepts."],
-  ["How can I access my report online?", "Ask the lab how online reports are shared with you. The method will be confirmed when you enquire."],
-  ["How should I prepare for my test?", "Preparation differs by test. Follow the instructions given by your doctor and confirm details with the lab."],
-  ["Are discounts or offers available?", "Offers shown here are samples. Ask the lab which offers are currently running."],
-  ["Are senior citizen discounts available?", "Please ask the lab whether a senior citizen discount applies to your tests."]
-];
+<!-- 4. POPULAR -->
+<section class="sec" id="popular">
+  <div class="wrap">
+    <div class="pop-head">
+      <div class="sec-h"><h2>Popular tests</h2><p>Commonly requested tests, with prices from the lab's displayed price list. Please confirm with the lab. Visiting the lab needs no booking; booking is only for home sample collection.</p></div>
+      <div class="pop-nav">
+        <button class="pop-arrow" id="popPrev" type="button" aria-label="Previous tests">‹</button>
+        <button class="pop-arrow" id="popNext" type="button" aria-label="Next tests">›</button>
+      </div>
+    </div>
+    <div class="grid cards" id="popularGrid" role="region" aria-label="Popular tests, scroll sideways" tabindex="0"></div>
+  </div>
+</section>
 
-/* =====================================================================
-   DATA BUILD AND VALIDATION
-   ===================================================================== */
-const slug = (s) => s.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
-const TESTS = TEST_ROWS.map(([name, c, price]) => ({
-  id: slug(name), name, cat: CATS[c], catKey: c, price, desc: CAT_DESC[c]
-}));
-const TEST_MAP = new Map(TESTS.map((t) => [t.id, t]));
-if (TEST_MAP.size !== TESTS.length) console.warn("Duplicate test IDs found.");
-PACKAGES.forEach((p) => {
-  p.id = "pkg-" + slug(p.name);
-  p.testIds = p.tests.map(slug);
-  p.testIds.forEach((id) => { if (!TEST_MAP.has(id)) console.warn("Package", p.name, "references unknown test", id); });
-  p.orig = p.testIds.reduce((s, id) => s + (TEST_MAP.has(id) ? TEST_MAP.get(id).price : 0), 0);
-  p.price = Math.round(p.orig * (1 - p.disc / 100) / 10) * 10;
-  p.discount = Math.round((1 - p.price / p.orig) * 100);
-});
-POPULAR_TEST_IDS.forEach((id) => { if (!TEST_MAP.has(id)) console.warn("Unknown popular test", id); });
-const PKG_MAP = new Map(PACKAGES.map((p) => [p.id, p]));
-const getItem = (id) => TEST_MAP.get(id) || PKG_MAP.get(id);
+<details class="tests-dropdown" id="testsDropdown">
+  <summary>View All Tests</summary>
 
-/* =====================================================================
-   HELPERS
-   ===================================================================== */
-const $ = (sel, root = document) => root.querySelector(sel);
-const $$ = (sel, root = document) => [...root.querySelectorAll(sel)];
-const rupee = (n) => "₹" + n.toLocaleString("en-IN");
-const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+<!-- 5. CATALOGUE -->
+<section class="sec alt" id="tests">
+  <div class="wrap">
+    <div class="sec-h"><h2>All tests</h2><p>Tests and prices from the lab's displayed price list. Please confirm availability with the lab.</p></div>
+    <p class="notice" role="note"><strong>Prices are from the lab's displayed price list and may change. Please confirm with the lab.</strong></p>
+    <div class="cat-layout">
+      <div>
+        <div class="finder">
+          <label class="sr" for="q">Search tests</label>
+          <input id="q" type="search" placeholder="Search for a test…" autocomplete="off">
+        </div>
+        <div class="tabs" id="tabs" role="tablist" aria-label="Test categories"></div>
+        <p class="count" id="count" aria-live="polite"></p>
+        <div id="results" role="tabpanel"></div>
+      </div>
+    </div>
+  </div>
+</section>
+</details>
 
-/* Click effects: ripple on buttons, sparks and "+1" on add/claim */
-let lastPt = { x: innerWidth / 2, y: innerHeight / 2 };
-document.addEventListener("click", (e) => {
-  const t = e.target.closest(".btn,.tab,.fab");
-  const r = t ? t.getBoundingClientRect() : null;
-  lastPt = e.clientX || e.clientY ? { x: e.clientX, y: e.clientY } : r ? { x: r.left + r.width / 2, y: r.top + r.height / 2 } : lastPt;
-  if (!t || reduceMotion) return;
-  const d = Math.max(r.width, r.height), s = h("span", "ripple");
-  s.style.cssText = "width:" + d + "px;height:" + d + "px;left:" + (lastPt.x - r.left - d / 2) + "px;top:" + (lastPt.y - r.top - d / 2) + "px";
-  t.append(s);
-  setTimeout(() => s.remove(), 650);
-}, true);
-function burst(n) {
-  if (reduceMotion) return;
-  for (let i = 0; i < n; i++) {
-    const s = h("span", "spark"), a = (i / n) * Math.PI * 2, d = 34 + (i % 3) * 14;
-    s.style.cssText = "left:" + lastPt.x + "px;top:" + lastPt.y + "px;--dx:" + Math.cos(a) * d + "px;--dy:" + Math.sin(a) * d + "px";
-    document.body.append(s);
-    setTimeout(() => s.remove(), 750);
-  }
-}
-function fxAdd() {
-  if (reduceMotion) return;
-  burst(8);
-  const p = h("span", "plus", "+1");
-  p.style.cssText = "left:" + (lastPt.x - 18) + "px;top:" + (lastPt.y - 30) + "px";
-  document.body.append(p);
-  setTimeout(() => p.remove(), 950);
-}
-function h(tag, cls, text) {
-  const e = document.createElement(tag);
-  if (cls) e.className = cls;
-  if (text != null) e.textContent = text;
-  return e;
-}
-function btn(label, cls, onClick, aria) {
-  const b = h("button", cls, label);
-  b.type = "button";
-  if (aria) b.setAttribute("aria-label", aria);
-  b.addEventListener("click", onClick);
-  return b;
-}
-const phoneDigits = PHONE_NUMBER.replace(/[^\d+]/g, "");
-const phoneOk = /^\+?\d{8,15}$/.test(phoneDigits);
-const waOk = /^\d{11,15}$/.test(WHATSAPP_NUMBER);
+<!-- 6. PACKAGES -->
+<section class="sec" id="packages">
+  <div class="wrap">
+    <div class="sec-h"><h2>Health packages</h2><p>Sample packages built from the lab's tests. Package contents and discounts need to be confirmed with the lab.</p></div>
+    <p class="notice" role="note"><strong>Test prices come from the lab's price list. Package discounts are samples. Please confirm with the lab.</strong></p>
+    <div class="grid cards" id="pkgGrid"></div>
+  </div>
+</section>
 
-let toastTimer;
-function toast(msg, linkText, href) {
-  const t = $("#toast");
-  t.textContent = msg;
-  if (linkText) { const a = h("a", "", linkText); a.href = href; t.append(a); }
-  t.classList.add("show");
-  clearTimeout(toastTimer);
-  toastTimer = setTimeout(() => t.classList.remove("show"), 4000);
-}
+<!-- 7. OFFERS -->
+<section class="sec offers" id="offers">
+  <div class="wrap">
+    <div class="banner">
+      <span class="glow big" aria-hidden="true">%</span><div>
+      <h2>Offers</h2>
+      <p>These are sample promotions and are not currently confirmed by the laboratory. Ask the team which offers apply today.</p>
+      </div>
+    </div>
+    <div class="grid cards" id="offerGrid"></div>
+  </div>
+</section>
 
-/* =====================================================================
-   STATIC BINDINGS
-   ===================================================================== */
-(function ticks() {
-  const t = $("#ticks");
-  for (let i = 0; i < 30; i++) { const s = h("i"); s.style.setProperty("--i", i); if ((i + 1) % 10 === 0) s.className = "big"; t.append(s); }
-})();
-$("#year").textContent = new Date().getFullYear();
-$("#statTests").dataset.count = TESTS.length;
-$("#statHours").dataset.count = SETTINGS.reportHours;
-$("#areaTxt").textContent = SETTINGS.collectionArea;
-$("#collHours").textContent = SETTINGS.collectionHours;
-$$("[data-phone]").forEach((a) => {
-  if (phoneOk) { a.href = "tel:" + phoneDigits; a.textContent = PHONE_NUMBER; if (a.classList.contains("fab")) a.textContent = "Call"; }
-  else { a.textContent = "Phone to be added"; a.removeAttribute("href"); }
-});
+<!-- 8. HOW IT WORKS -->
+<section class="sec" id="how">
+  <div class="wrap">
+    <div class="sec-h"><h2>How it works</h2></div>
+    <ol class="steps">
+      <li class="reveal"><span class="ico" aria-hidden="true">1</span><h3>Add tests to My Tests</h3><p>Search or browse and add one or more tests or packages.</p></li>
+      <li class="reveal"><span class="ico" aria-hidden="true">2</span><h3>Book home collection or walk in</h3><p>Tap Book Home Collection to send your list on WhatsApp, or simply walk in to the lab. No booking needed.</p></li>
+      <li class="reveal"><span class="ico" aria-hidden="true">3</span><h3>Give your sample</h3><p>Visit the lab, or our team collects at your home once the lab confirms your slot.</p></li>
+      <li class="reveal"><span class="ico" aria-hidden="true">4</span><h3>Get your report online</h3><p>Your report is shared online, so there is no need to come to the lab to collect it.</p></li>
+    </ol>
+  </div>
+</section>
 
-/* =====================================================================
-   OFFERS MARQUEE AND OFFER CARDS
-   ===================================================================== */
-const MARQUEE = [
-  "Trusted Diagnostic Services",
-  "Affordable Diagnostic Test Prices",
-  "Family Health Checkup Packages",
-  "Reports Delivered on WhatsApp",
-  "Home Sample Collection Available",
-  "Senior Citizen Health Packages"
-];
-(function marquee() {
-  const track = $("#marquee");
-  for (let i = 0; i < 2; i++) {
-    const g = h("div"); g.style.display = "flex";
-    if (i) g.setAttribute("aria-hidden", "true");
-    MARQUEE.forEach((t) => g.append(h("span", "", "✦ " + t)));
-    track.append(g);
-  }
-})();
-function expiryText(o) {
-  if (!o.expires) return "Expiry: to be confirmed";
-  const d = new Date(o.expires + "T23:59:59");
-  return d < new Date() ? "Expired on " + o.expires : "Valid until " + o.expires;
-}
-OFFERS.forEach((o, i) => {
-  const c = h("article", "card reveal");
-  c.style.setProperty("--i", i);
-  c.append((() => { const g = h("span", "ico glow", "%"); g.setAttribute("aria-hidden", "true"); return g; })(), h("span", "badge", "Sample promotion"), h("h3", "", o.title), h("p", "", o.desc), h("div", "benefit", o.benefit),
-    h("p", "", "Conditions: " + o.cond), h("p", "", expiryText(o)));
-  const b = btn("Claim Offer", "btn btn-g", () => {
-    burst(12);
-    $("#serviceSelect").value = "general";
-    $("#patientMessage").value = "I would like to ask about this offer: " + o.title + ".";
-    goToForm();
-  });
-  c.append(b);
-  $("#offerGrid").append(c);
-});
+<!-- 9. HOME COLLECTION -->
+<section class="sec alt" id="collection">
+  <div class="wrap split">
+    <div class="reveal">
+      <h2>Home sample collection</h2>
+      <p>Home collection is the only service that needs a booking. Select your tests and tap Book Home Collection. Your list opens in WhatsApp and the lab confirms your slot. Availability depends on your area and the test.</p>
+      <p class="walkin"><strong>Visiting the lab?</strong> No booking needed. Just walk in during working hours.</p>
+      <dl class="facts">
+        <div><dt>Service area</dt><dd id="areaTxt"></dd></div>
+        <div><dt>Collection hours</dt><dd id="collHours"></dd></div>
+      </dl>
+      <p class="small">Coverage, timings and any charges are confirmed by the lab.</p>
+      <a class="btn btn-p" href="#contact" data-action="book">Book Home Collection</a>
+    </div>
+    <figure class="photo side-photo reveal"><svg class="art " viewBox="0 0 900 700" preserveAspectRatio="xMidYMid slice" aria-hidden="true" focusable="false"><defs><linearGradient id="gs" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1B6B58"/><stop offset="1" stop-color="#07332C"/></linearGradient><radialGradient id="rs"><stop offset="0" stop-color="#2FA07A" stop-opacity=".8"/><stop offset="1" stop-color="#2FA07A" stop-opacity="0"/></radialGradient></defs><rect width="100%" height="100%" fill="url(#gs)"/><circle cx="450" cy="360" r="380" fill="url(#rs)"/><g class="fl f1"><use href="#i-centrifuge" x="90" y="150" width="440" height="440"/></g><g class="fl f2"><use href="#i-tubes" x="500" y="330" width="310" height="310"/></g><g class="fl f4"><use href="#i-pipette" x="600" y="40" width="230" height="230"/></g><circle class="bub" cx="520" cy="640" r="4" style="animation-delay:0.0s;animation-duration:4s"/><circle class="bub" cx="682" cy="640" r="9" style="animation-delay:0.7s;animation-duration:5s"/><circle class="bub" cx="585" cy="640" r="7" style="animation-delay:1.4s;animation-duration:6s"/><circle class="bub" cx="748" cy="640" r="5" style="animation-delay:2.1s;animation-duration:4s"/><circle class="bub" cx="650" cy="640" r="10" style="animation-delay:2.8s;animation-duration:5s"/><circle class="bub" cx="552" cy="640" r="8" style="animation-delay:3.5s;animation-duration:6s"/><circle class="bub" cx="715" cy="640" r="6" style="animation-delay:4.2s;animation-duration:4s"/><circle class="bub" cx="618" cy="640" r="4" style="animation-delay:4.9s;animation-duration:5s"/><circle class="drip" cx="660" cy="245" r="7" fill="#FFE680"/></svg><img src="images/sample-tubes.jpg" alt="Blood collection tubes in a rack on a laboratory bench" width="900" height="700" loading="lazy"></figure>
+  </div>
+</section>
 
-/* =====================================================================
-   ENQUIRE: pre-selects a test or package in the enquiry form
-   ===================================================================== */
-const bookDlg = $("#bookDialog");
-function waLink(text) { return "https://wa.me/" + WHATSAPP_NUMBER + "?text=" + encodeURIComponent(text); }
-function openBooking(id) {
-  const item = id ? getItem(id) : null;
-  const itemBox = $("#bkItem"), incl = $("#bkIncl");
-  itemBox.replaceChildren(); incl.replaceChildren(); incl.hidden = true;
-  let line;
-  if (item) {
-    const isPkg = !!item.testIds;
-    const info = h("div", "bk-info");
-    info.append(h("b", "", item.name), h("span", "", isPkg ? "Health package · " + item.tests.length + " tests" : item.cat), h("span", "bk-est", "Estimate only. The lab confirms the final amount."));
-    itemBox.append(info, h("b", "bk-price", rupee(item.price)));
-    if (isPkg) { item.tests.forEach((n) => incl.append(h("li", "", n))); incl.hidden = false; }
-    line = (isPkg ? "Package: " : "Test: ") + item.name + " (" + rupee(item.price) + (isPkg ? ", sample package price, to be confirmed)" : ", price from the lab list)");
-  } else {
-    const info = h("div", "bk-info");
-    info.append(h("b", "", "No specific test chosen"), h("span", "", "Tell the lab which tests you need, or send your prescription in WhatsApp."));
-    itemBox.append(info);
-    line = "Test: As per my prescription / I will share the test names";
-  }
-  const text = "Hello " + BUSINESS_INFO.name + ", I would like to book HOME SAMPLE COLLECTION.\n\n" + line +
-    "\n\nPlease check availability and confirm a slot. I will share my name, address and preferred date and time here.";
-  const go = $("#bkGo"), note = $("#bkNote");
-  if (waOk) { go.href = waLink(text); go.removeAttribute("aria-disabled"); note.hidden = true; }
-  else { go.removeAttribute("href"); go.setAttribute("aria-disabled", "true"); note.hidden = false; note.textContent = "WhatsApp is not set up yet. Please call " + PHONE_NUMBER + " to book."; }
-  fxAdd();
-  bookDlg.showModal();
-}
-$("#bkGo").addEventListener("click", () => { setTimeout(() => bookDlg.close(), 150); });
-$("#bkCancel").addEventListener("click", () => bookDlg.close());
-bookDlg.addEventListener("click", (e) => { if (e.target === bookDlg) bookDlg.close(); });
-$$('[data-action="book"]').forEach((a) => a.addEventListener("click", (e) => { e.preventDefault(); setMenu(false); openBooking(null); }));
+<!-- 10. WHY -->
+<section class="sec" id="why">
+  <div class="wrap">
+    <div class="sec-h"><h2>Why choose us</h2></div>
+    <!-- 30+ YEARS LEGACY (inside Why Us) -->
+    <div class="legacy" id="legacy" role="group" aria-labelledby="legacyH">
+      <svg class="lg-ecg" viewBox="0 0 1200 120" preserveAspectRatio="none" aria-hidden="true" focusable="false">
+        <path class="lg-ecg-base" d="M0 62H180l14-12 14 12H260l8 10 12-56 14 92 10-46H360l18-14 22 14H620l14-12 14 12H700l8 10 12-56 14 92 10-46H800l18-14 22 14H1200" pathLength="1000" vector-effect="non-scaling-stroke"/>
+        <path class="lg-ecg-pulse" d="M0 62H180l14-12 14 12H260l8 10 12-56 14 92 10-46H360l18-14 22 14H620l14-12 14 12H700l8 10 12-56 14 92 10-46H800l18-14 22 14H1200" pathLength="1000" vector-effect="non-scaling-stroke"/>
+      </svg>
+      <div class="legacy-grid">
+        <div class="legacy-art reveal fx-left" aria-hidden="true">
+          <svg viewBox="0 0 460 460" focusable="false">
+            <defs>
+              <linearGradient id="lgG" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFE680"/><stop offset="1" stop-color="#2FA07A"/></linearGradient>
+              <radialGradient id="lgGlow"><stop offset="0" stop-color="#2FA07A" stop-opacity=".6"/><stop offset="1" stop-color="#2FA07A" stop-opacity="0"/></radialGradient>
+            </defs>
+            <circle class="lg-glow" cx="230" cy="230" r="215" fill="url(#lgGlow)"/>
+            <circle class="lg-dash d1" cx="230" cy="230" r="172" fill="none" stroke="#fff" stroke-opacity=".28" stroke-width="2" stroke-dasharray="3 12"/>
+            <circle class="lg-dash d2" cx="230" cy="230" r="108" fill="none" stroke="#FFE680" stroke-opacity=".4" stroke-width="2" stroke-dasharray="2 10"/>
+            <circle cx="230" cy="230" r="140" fill="none" stroke="#fff" stroke-opacity=".12" stroke-width="10"/>
+            <circle class="lg-ring" cx="230" cy="230" r="140" fill="none" stroke="url(#lgG)" stroke-width="10" stroke-linecap="round" pathLength="100"/>
+            <circle class="lg-b" cx="190" cy="330" r="4" style="animation-delay:0s"/>
+            <circle class="lg-b" cx="225" cy="340" r="6" style="animation-delay:1.1s"/>
+            <circle class="lg-b" cx="262" cy="332" r="4" style="animation-delay:2.2s"/>
+            <circle class="lg-b" cx="208" cy="344" r="3" style="animation-delay:3.1s"/>
+            <circle class="lg-b" cx="246" cy="346" r="5" style="animation-delay:0.6s"/>
+            <g class="lg-spin">
+              <g class="lg-ic"><use href="#i-microscope" x="198" y="6" width="64" height="64"/></g>
+              <g class="lg-ic"><use href="#i-tubes" x="390" y="198" width="64" height="64"/></g>
+              <g class="lg-ic"><use href="#i-centrifuge" x="198" y="390" width="64" height="64"/></g>
+              <g class="lg-ic"><use href="#i-cup" x="6" y="198" width="64" height="64"/></g>
+            </g>
+          </svg>
+          <div class="lg-num"><b data-count="30" data-suffix="+">30+</b><span>Years of trust</span></div>
+        </div>
+        <div class="legacy-text reveal fx-right">
+          <p class="lg-eyebrow">30+ years of experience</p>
+          <h3 id="legacyH" class="lg-h">Three decades of careful diagnostics in Chikkaballapur.</h3>
+          <p class="lg-lead">For more than 30 years, Shiva Sathvik Diagnostic Lab &amp; X-ray Imaging has been a familiar name for local families: accurate tests, caring service and prices that respect your budget.</p>
+          <div class="ticks" id="ticks" aria-hidden="true"></div>
+          <div class="tick-lbl" aria-hidden="true"><span>Year 1</span><span>10</span><span>20</span><span>30+</span></div>
+          <ul class="lg-pills">
+            <li><span aria-hidden="true">✚</span> Hygienic sample handling</li>
+            <li><span aria-hidden="true">⌂</span> Home sample collection</li>
+            <li><span aria-hidden="true">₹</span> Affordable prices</li>
+          </ul>
+          <a class="btn btn-g" href="#contact" data-action="book">Book Home Collection</a>
+        </div>
+      </div>
+    </div>
+    
+    <div class="grid cards three">
+      <article class="card reveal"><span class="ico" aria-hidden="true">₹</span><h3>Affordable testing options</h3><p>Tests designed to be mindful of your budget.</p></article>
+      <article class="card reveal"><span class="ico" aria-hidden="true">30</span><h3>30+ years of experience</h3><p>A long-standing presence in Chikkaballapur.</p></article>
+      <article class="card reveal"><span class="ico" aria-hidden="true">▤</span><h3>Report access</h3><p>Ask us about turnaround times and how reports are shared.</p></article>
+      <article class="card reveal"><span class="ico" aria-hidden="true">✚</span><h3>Hygienic sample handling</h3><p>Samples are collected and handled with care.</p></article>
+      <article class="card reveal"><span class="ico" aria-hidden="true">%</span><h3>Offers on selected tests</h3><p>Ask our team about current offers.</p></article>
+      <article class="card reveal"><span class="ico" aria-hidden="true">⌂</span><h3>Home sample collection</h3><p>Book collection from your home on WhatsApp.</p></article>
+    </div>
+    <div class="lab-tiles"><article class="lab-tile reveal"><svg viewBox="0 0 120 120" aria-hidden="true" focusable="false"><use href="#i-tubes" width="120" height="120"/></svg><h3>Sample collection</h3><p>Labelled and handled with care.</p></article><article class="lab-tile reveal"><svg viewBox="0 0 120 120" aria-hidden="true" focusable="false"><use href="#i-centrifuge" width="120" height="120"/></svg><h3>Sample preparation</h3><p>Prepared for analysis.</p></article><article class="lab-tile reveal"><svg viewBox="0 0 120 120" aria-hidden="true" focusable="false"><use href="#i-microscope" width="120" height="120"/></svg><h3>Examination</h3><p>Careful, detailed review.</p></article><article class="lab-tile reveal"><svg viewBox="0 0 120 120" aria-hidden="true" focusable="false"><use href="#i-cup" width="120" height="120"/></svg><h3>Specimen handling</h3><p>Clean, sealed containers.</p></article></div>
+    <figure class="photo wide-photo reveal"><svg class="art " viewBox="0 0 1400 480" preserveAspectRatio="xMidYMid slice" aria-hidden="true" focusable="false"><defs><linearGradient id="gw" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1B6B58"/><stop offset="1" stop-color="#07332C"/></linearGradient><radialGradient id="rw"><stop offset="0" stop-color="#2FA07A" stop-opacity=".8"/><stop offset="1" stop-color="#2FA07A" stop-opacity="0"/></radialGradient></defs><rect width="100%" height="100%" fill="url(#gw)"/><circle cx="700" cy="260" r="520" fill="url(#rw)"/><g class="fl f1"><use href="#i-microscope" x="90" y="40" width="400" height="400"/></g><g class="fl f2"><use href="#i-centrifuge" x="460" y="60" width="380" height="380"/></g><g class="fl f3"><use href="#i-tubes" x="820" y="110" width="320" height="320"/></g><g class="fl f4"><use href="#i-cup" x="1110" y="120" width="260" height="260"/></g><circle class="bub" cx="840" cy="400" r="4" style="animation-delay:0.0s;animation-duration:4s"/><circle class="bub" cx="1015" cy="400" r="9" style="animation-delay:0.7s;animation-duration:5s"/><circle class="bub" cx="910" cy="400" r="7" style="animation-delay:1.4s;animation-duration:6s"/><circle class="bub" cx="1085" cy="400" r="5" style="animation-delay:2.1s;animation-duration:4s"/><circle class="bub" cx="980" cy="400" r="10" style="animation-delay:2.8s;animation-duration:5s"/><circle class="bub" cx="875" cy="400" r="8" style="animation-delay:3.5s;animation-duration:6s"/><circle class="bub" cx="1050" cy="400" r="6" style="animation-delay:4.2s;animation-duration:4s"/><circle class="bub" cx="945" cy="400" r="4" style="animation-delay:4.9s;animation-duration:5s"/></svg><img src="images/lab-bench.jpg" alt="Centrifuge and pipettes on a clean laboratory bench" width="1400" height="480" loading="lazy"></figure>
+  </div>
+</section>
 
-/* =====================================================================
-   CARDS: POPULAR TESTS, CATALOGUE, PACKAGES
-   ===================================================================== */
-let detailId = null;
-function openDetail(id) {
-  const t = TEST_MAP.get(id);
-  detailId = id;
-  $("#dTitle").textContent = t.name;
-  $("#dDesc").textContent = t.desc;
-  const f = $("#dFacts");
-  f.replaceChildren();
-  [["Category", t.cat], ["Price (lab list)", rupee(t.price)], ["Preparation", "Confirm with lab"], ["Report time", "Confirm with lab"]].forEach(([k, v]) => {
-    const d = h("div"); d.append(h("dt", "", k), h("dd", "", v)); f.append(d);
-  });
-  $("#detail").showModal();
-}
-$("#dAdd").addEventListener("click", () => { $("#detail").close(); openBooking(detailId); });
-$("#dClose").addEventListener("click", () => $("#detail").close());
-$("#detail").addEventListener("click", (e) => { if (e.target === e.currentTarget) e.currentTarget.close(); });
+<!-- 11. REVIEWS -->
+<section class="sec alt" id="reviews">
+  <div class="wrap">
+    <div class="sec-h"><h2>What patients may say</h2><p>Sample reviews for layout demonstration only. They are not real patient feedback.</p></div>
+    <div class="carousel" role="group" aria-roledescription="carousel" aria-label="Sample reviews">
+      <div class="car-track" id="carTrack" tabindex="0" aria-label="Sample reviews, scroll sideways"></div>
+      <div class="car-btns">
+        <button class="btn btn-o" id="carPrev" type="button" aria-label="Previous review">←</button>
+        <button class="btn btn-o" id="carNext" type="button" aria-label="Next review">→</button>
+      </div>
+    </div>
+  </div>
+</section>
 
-POPULAR_TEST_IDS.forEach((id, i) => {
-  const t = TEST_MAP.get(id);
-  if (!t) return;
-  const c = h("article", "card reveal");
-  c.style.setProperty("--i", i % 5);
-  const meta = h("ul", "meta");
-  meta.append(h("li", "", t.cat), h("li", "", "Report time: confirm with lab"));
-  const actions = h("div", "card-btns");
-  actions.append(btn("Book Home Collection", "btn btn-p", () => openBooking(id)), btn("View Details", "link-btn", () => openDetail(id), "View details for " + t.name));
-  c.append(h("span", "ico", t.catKey), h("h3", "", t.name), h("p", "", t.desc), meta, h("div", "price", rupee(t.price)), actions);
-  $("#popularGrid").append(c);
-});
+<!-- 12. FAQ -->
+<section class="sec" id="faq">
+  <div class="wrap narrow">
+    <div class="sec-h"><h2>Frequently asked questions</h2></div>
+    <div id="faqList"></div>
+  </div>
+</section>
 
-PACKAGES.forEach((p, i) => {
-  const c = h("article", "card reveal" + (p.badge ? " feature" : ""));
-  c.style.setProperty("--i", i % 4);
-  if (p.badge) c.append(h("span", "badge", p.badge));
-  const price = h("div", "price", rupee(p.price));
-  price.append(h("s", "", rupee(p.orig)));
-  const det = h("details");
-  det.append(h("summary", "", "Included tests (" + p.tests.length + ")"));
-  const ul = h("ul");
-  p.tests.forEach((n) => ul.append(h("li", "", n)));
-  det.append(ul);
-  c.append(h("h3", "", p.name), h("p", "", p.desc), h("p", "", p.tests.length + " tests included."),
-    price, h("span", "tag off", p.discount + "% off (sample)"), det,
-    (() => { const a = h("div", "card-btns"); a.append(btn("Book Home Collection", "btn btn-p", () => openBooking(p.id))); return a; })());
-  $("#pkgGrid").append(c);
-});
+<!-- 13. CONTACT -->
 
-/* Catalogue: search + category tabs */
-const state = { cat: "all", q: "" };
-const tabsEl = $("#tabs");
-[["all", "All"], ...Object.entries(CATS)].forEach(([key, label]) => {
-  const b = h("button", "tab", label);
-  b.type = "button"; b.dataset.cat = key;
-  b.setAttribute("role", "tab");
-  b.setAttribute("aria-selected", key === "all" ? "true" : "false");
-  b.setAttribute("aria-controls", "results");
-  b.tabIndex = key === "all" ? 0 : -1;
-  tabsEl.append(b);
-});
-function setCat(key) {
-  state.cat = key;
-  $$(".tab", tabsEl).forEach((b) => {
-    const on = b.dataset.cat === key;
-    b.setAttribute("aria-selected", String(on));
-    b.tabIndex = on ? 0 : -1;
-  });
-  renderCatalogue();
-}
-tabsEl.addEventListener("click", (e) => { const b = e.target.closest(".tab"); if (b) setCat(b.dataset.cat); });
-tabsEl.addEventListener("keydown", (e) => {
-  const tabs = $$(".tab", tabsEl);
-  const i = tabs.findIndex((b) => b.getAttribute("aria-selected") === "true");
-  let n = -1;
-  if (e.key === "ArrowRight") n = (i + 1) % tabs.length;
-  else if (e.key === "ArrowLeft") n = (i - 1 + tabs.length) % tabs.length;
-  else if (e.key === "Home") n = 0;
-  else if (e.key === "End") n = tabs.length - 1;
-  if (n < 0) return;
-  e.preventDefault();
-  setCat(tabs[n].dataset.cat);
-  tabs[n].focus();
-});
-function renderCatalogue() {
-  const q = state.q.trim().toLowerCase();
-  const list = TESTS.filter((t) => (state.cat === "all" || t.catKey === state.cat) &&
-    (!q || (t.name + " " + t.cat).toLowerCase().includes(q)));
-  const out = $("#results");
-  out.replaceChildren();
-  out.style.animation = "none"; void out.offsetWidth; out.style.animation = "";
-  $("#count").textContent = list.length + " of " + TESTS.length + " tests shown";
-  if (!list.length) {
-    out.append(h("div", "empty", "No tests match your search. Try a shorter name, or choose “All” to see every category."));
-    return;
-  }
-  list.forEach((t) => {
-    const r = h("article", "row");
-    const name = h("div", "name");
-    name.append(btn(t.name, "link-btn", () => openDetail(t.id), "View details for " + t.name), h("br"), h("span", "tag", t.cat));
-    const meta = h("div", "meta rm");
-    meta.append(h("span", "", "Preparation and report time: confirm with lab"));
-    name.classList.add("name");
-    const price = h("b", "price rp", rupee(t.price));
-    const add = btn("Book Home Collection", "btn btn-o rb", () => openBooking(t.id), "Book home collection for " + t.name);
-    r.append(name, meta, price, add);
-    out.append(r);
-  });
-}
-$("#q").addEventListener("input", (e) => { state.q = e.target.value; renderCatalogue(); });
-/* Open the catalogue dropdown and jump to it, optionally with a search term */
-function openCatalogue(term) {
-  $("#testsDropdown").open = true;
-  if (term != null) { $("#q").value = term; state.q = term; setCat("all"); }
-  $("#tests").scrollIntoView({ behavior: reduceMotion ? "auto" : "smooth" });
-}
-$$('a[href="#tests"]').forEach((a) => a.addEventListener("click", (e) => { e.preventDefault(); openCatalogue(); }));
-if (location.hash === "#tests") $("#testsDropdown").open = true;
+<!-- CONTACT US + VISIT US -->
+<section class="sec alt" id="contact">
+  <div class="wrap">
+    <div class="sec-h">
+      <p class="eyebrow">CONTACT & LOCATION</p>
+      <h2>Contact Us & Visit Our Lab</h2>
+      <p>
+        Have a question about a test or package? Contact our team or visit
+        Shiva Sathvik Diagnostic Lab for your diagnostic testing needs.
+      </p>
+    </div>
 
-/* Hero search: live suggestions while typing, Enter goes to the catalogue */
-const heroQ = $("#heroQ"), suggest = $("#heroSuggest");
-let sugItems = [], sugActive = -1;
-function hideSuggest() {
-  suggest.hidden = true; sugActive = -1;
-  heroQ.setAttribute("aria-expanded", "false");
-  heroQ.removeAttribute("aria-activedescendant");
-}
-function setActive(i) {
-  const lis = $$("li[role=option]", suggest);
-  lis.forEach((li, n) => li.setAttribute("aria-selected", String(n === i)));
-  sugActive = i;
-  if (i >= 0) { heroQ.setAttribute("aria-activedescendant", lis[i].id); lis[i].scrollIntoView({ block: "nearest" }); }
-  else heroQ.removeAttribute("aria-activedescendant");
-}
-function pickSuggestion(t) {
-  heroQ.value = t.name;
-  hideSuggest();
-  openCatalogue(t.name);
-}
-function renderSuggest() {
-  const q = heroQ.value.trim().toLowerCase();
-  suggest.replaceChildren();
-  sugActive = -1;
-  if (!q) { hideSuggest(); return; }
-  sugItems = TESTS.filter((t) => (t.name + " " + t.cat).toLowerCase().includes(q))
-    .sort((a, b) => (b.name.toLowerCase().startsWith(q) - a.name.toLowerCase().startsWith(q)) || a.name.localeCompare(b.name))
-    .slice(0, 8);
-  if (!sugItems.length) {
-    suggest.append(h("li", "sg-none", "No matching tests. Press Enter to browse the full catalogue."));
-  }
-  sugItems.forEach((t, i) => {
-    const li = h("li", "sg-item");
-    li.id = "sg-" + i;
-    li.setAttribute("role", "option");
-    li.setAttribute("aria-selected", "false");
-    const label = h("span", "sg-name");
-    const at = t.name.toLowerCase().indexOf(q);
-    if (at >= 0) label.append(t.name.slice(0, at), h("mark", "", t.name.slice(at, at + q.length)), t.name.slice(at + q.length));
-    else label.textContent = t.name;
-    li.append(label, h("span", "sg-cat", t.cat), h("b", "sg-price", rupee(t.price)));
-    li.addEventListener("mousedown", (e) => e.preventDefault());
-    li.addEventListener("click", () => pickSuggestion(t));
-    suggest.append(li);
-  });
-  suggest.hidden = false;
-  heroQ.setAttribute("aria-expanded", "true");
-}
-heroQ.addEventListener("input", renderSuggest);
-heroQ.addEventListener("focus", () => { if (heroQ.value.trim()) renderSuggest(); });
-heroQ.addEventListener("keydown", (e) => {
-  const open = !suggest.hidden && sugItems.length;
-  if (e.key === "ArrowDown" && open) { e.preventDefault(); setActive((sugActive + 1) % sugItems.length); }
-  else if (e.key === "ArrowUp" && open) { e.preventDefault(); setActive((sugActive - 1 + sugItems.length) % sugItems.length); }
-  else if (e.key === "Escape" && !suggest.hidden) { e.stopPropagation(); hideSuggest(); }
-});
-document.addEventListener("click", (e) => { if (!e.target.closest("#heroSearch")) hideSuggest(); });
-$("#heroSearch").addEventListener("submit", (e) => {
-  e.preventDefault();
-  if (sugActive >= 0 && sugItems[sugActive]) { pickSuggestion(sugItems[sugActive]); return; }
-  hideSuggest();
-  openCatalogue(heroQ.value);
-});
+    <div class="contact-grid">
+      <!-- Lab contact and visit details -->
+      <div class="reveal">
+        <div class="form-card">
+          <h3>Visit Our Laboratory</h3>
+          <p><strong>Shiva Sathvik Diagnostic Lab &amp; X-ray Imaging</strong></p>
+          <p class="walkin"><strong>Walk-ins welcome.</strong> No booking needed to visit the lab. Booking is only for home sample collection.</p>
 
-/* Popular tests slider: arrows scroll one card at a time */
-(function popularSlider() {
-  const track = $("#popularGrid"), prev = $("#popPrev"), next = $("#popNext");
-  const stepBy = () => { const c = track.firstElementChild; return c ? c.getBoundingClientRect().width + 20 : 300; };
-  const sync = () => {
-    prev.disabled = track.scrollLeft <= 4;
-    next.disabled = track.scrollLeft + track.clientWidth >= track.scrollWidth - 4;
-  };
-  prev.addEventListener("click", () => track.scrollBy({ left: -stepBy(), behavior: reduceMotion ? "auto" : "smooth" }));
-  next.addEventListener("click", () => track.scrollBy({ left: stepBy(), behavior: reduceMotion ? "auto" : "smooth" }));
-  track.addEventListener("scroll", sync, { passive: true });
-  track.addEventListener("keydown", (e) => {
-    if (e.key === "ArrowRight") { e.preventDefault(); next.click(); }
-    if (e.key === "ArrowLeft") { e.preventDefault(); prev.click(); }
-  });
-  window.addEventListener("resize", sync);
-  sync();
-})();
+          <dl class="facts">
+            <div>
+              <dt><span aria-hidden="true">📍</span> Address</dt>
+              <dd>
+                Behind Sadhur Matt,<br />
+                Chikkaballapur, Karnataka 562101
+              </dd>
+            </div>
 
-/* =====================================================================
-   REVIEWS CAROUSEL AND FAQ
-   ===================================================================== */
-REVIEWS.forEach((t, i) => {
-  const c = h("article", "card review");
-  c.append(h("span", "badge", "Sample review"), h("q", "", t), h("small", "", "Reviewer " + (i + 1)));
-  $("#carTrack").append(c);
-});
-const step = () => $("#carTrack").clientWidth * 0.8;
-$("#carPrev").addEventListener("click", () => $("#carTrack").scrollBy({ left: -step(), behavior: reduceMotion ? "auto" : "smooth" }));
-$("#carNext").addEventListener("click", () => $("#carTrack").scrollBy({ left: step(), behavior: reduceMotion ? "auto" : "smooth" }));
-$("#carTrack").addEventListener("keydown", (e) => {
-  if (e.key === "ArrowRight") { e.preventDefault(); $("#carNext").click(); }
-  if (e.key === "ArrowLeft") { e.preventDefault(); $("#carPrev").click(); }
-});
+            <div>
+              <dt><span aria-hidden="true">📞</span> Phone</dt>
+              <dd>
+                <a href="tel:9343601092">9343601092</a>
+              </dd>
+            </div>
 
-FAQS.forEach(([q, a], i) => {
-  const item = h("div", "faq-item");
-  const trig = h("button", "faq-q", q);
-  trig.type = "button";
-  trig.id = "faq-q" + i;
-  trig.setAttribute("aria-expanded", "false");
-  trig.setAttribute("aria-controls", "faq-p" + i);
-  const panel = h("div", "faq-p");
-  panel.id = "faq-p" + i;
-  panel.setAttribute("role", "region");
-  panel.setAttribute("aria-labelledby", trig.id);
-  const inner = h("div"); inner.append(h("p", "", a)); panel.append(inner);
-  trig.addEventListener("click", () => {
-    const open = trig.getAttribute("aria-expanded") === "true";
-    trig.setAttribute("aria-expanded", String(!open));
-    panel.classList.toggle("open", !open);
-  });
-  item.append(h("h3", "", ""), panel);
-  item.firstChild.append(trig);
-  $("#faqList").append(item);
-});
+            <div>
+              <dt><span aria-hidden="true">🕒</span> Working Hours</dt>
+              <dd>Monday–Saturday, 7:00 AM–8:30 PM</dd>
+            </div>
+          </dl>
 
-/* =====================================================================
-   ENQUIRY FORM
-   ===================================================================== */
-const form = $("#enquiryForm");
-const sel = $("#serviceSelect");
-(function fillSelect() {
-  const add = (parent, value, label) => { const o = h("option", "", label); o.value = value; parent.append(o); };
-  add(sel, "general", "Tests as per my prescription");
-  const gp = document.createElement("optgroup"); gp.label = "Packages";
-  PACKAGES.forEach((p) => add(gp, p.id, p.name));
-  const gt = document.createElement("optgroup"); gt.label = "Tests (sample catalogue)";
-  TESTS.forEach((t) => add(gt, t.id, t.name));
-  sel.append(gp, gt);
-})();
-const today = new Date(); today.setMinutes(today.getMinutes() - today.getTimezoneOffset());
-$("#prefDate").min = today.toISOString().slice(0, 10);
+          <div class="contact-actions">
+            <a
+              class="btn btn-p"
+              href="https://www.google.com/maps/place/Shiva+Sathvik+Diagnostic+Lab+%26+X-ray+Imaging/@13.4331349,77.7250213,847m/data=!3m2!1e3!4b1!4m6!3m5!1s0x3bb1ef47480c3b37:0x234728a1f9e0343c!8m2!3d13.4331349!4d77.7250213!16s%2Fg%2F11t0mcycyw"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Get Directions
+            </a>
 
-function goToForm() {
-  $("#contact").scrollIntoView({ behavior: reduceMotion ? "auto" : "smooth" });
-  setTimeout(() => $("#patientName").focus({ preventScroll: true }), reduceMotion ? 0 : 600);
-}
+            <a class="btn btn-o" href="tel:9343601092">
+              Call Now
+            </a>
 
-function setErr(id, msg, field) {
-  $("#e-" + id).textContent = msg;
-  if (field) field.setAttribute("aria-invalid", msg ? "true" : "false");
-}
-function validate() {
-  let bad = null;
-  const name = $("#patientName"), phone = $("#patientPhone"), area = $("#patientArea"), date = $("#prefDate"), time = $("#prefTime");
-  const fail = (key, msg, field) => { setErr(key, msg, field); bad = bad || field; };
-  setErr("name", "", name); setErr("phone", "", phone); setErr("area", "", area); setErr("date", "", date); setErr("time", "", time);
-  if (!name.value.trim()) fail("name", "Enter your name.", name);
-  const digits = phone.value.replace(/[\s-]/g, "");
-  if (!/^(\+?91)?[6-9]\d{9}$/.test(digits)) fail("phone", "Enter a 10-digit mobile number, with or without +91.", phone);
-  if (!area.value.trim()) fail("area", "Enter the address where the sample should be collected.", area);
-  if (date.value && new Date(date.value + "T00:00").getDay() === 0) fail("date", "The lab lists Monday–Saturday hours. Please choose another day.", date);
-  if (time.value && (time.value < BUSINESS_INFO.openFrom || time.value > BUSINESS_INFO.openTo)) fail("time", "Choose a time between 7:00 AM and 8:30 PM.", time);
-  if (bad) bad.focus();
-  return !bad;
-}
-function buildEnquiry() {
-  const lines = ["Hello " + BUSINESS_INFO.name + ", I would like to book HOME SAMPLE COLLECTION. Please confirm if a slot is available.", "", "Name: " + $("#patientName").value.trim(), "Phone: " + $("#patientPhone").value.trim(), "Address: " + $("#patientArea").value.trim()];
-  lines.push("Test / package: " + sel.options[sel.selectedIndex].text);
-  if ($("#prefDate").value) lines.push("Collection date: " + $("#prefDate").value);
-  if ($("#prefTime").value) lines.push("Collection time: " + $("#prefTime").value);
-  lines.push("Message: " + ($("#patientMessage").value.trim() || "No additional message"));
-  return lines.join("\n");
-}
-form.addEventListener("submit", (e) => {
-  e.preventDefault();
-  if (!validate()) return;
-  $("#enquiryText").value = buildEnquiry();
-  $("#result").hidden = false;
-  $("#waBtn").disabled = !waOk;
-  $("#waNote").textContent = waOk ? "WhatsApp should have opened with your request ready. Press Send there. If it did not open, use Open WhatsApp." : "WhatsApp is not set up yet. Copy the request and send it by call or message.";
-  if (waOk) openWhatsApp();
-  $("#resultMsg").focus?.();
-  $("#result").scrollIntoView({ block: "nearest", behavior: reduceMotion ? "auto" : "smooth" });
-});
-$("#copyBtn").addEventListener("click", () => {
-  const ta = $("#enquiryText");
-  const fallback = () => { ta.focus(); ta.select(); $("#waNote").textContent = "Press Ctrl+C (or Copy) to copy the selected text."; };
-  if (navigator.clipboard && window.isSecureContext) {
-    navigator.clipboard.writeText(ta.value).then(() => { $("#waNote").textContent = "Request copied. Paste it into WhatsApp to send."; }, fallback);
-  } else fallback();
-});
-function openWhatsApp() {
-  if (!waOk) { goToForm(); toast("WhatsApp is not set up yet. Prepare and copy your enquiry instead."); return; }
-  const text = $("#result").hidden ? "" : $("#enquiryText").value;
-  window.open("https://wa.me/" + WHATSAPP_NUMBER + (text ? "?text=" + encodeURIComponent(text) : ""), "_blank", "noopener,noreferrer");
-}
-$("#waBtn").addEventListener("click", openWhatsApp);
-$("#waFab").addEventListener("click", openWhatsApp);
-if (!waOk) $("#waFab").hidden = true;   // hidden until a WhatsApp number is set
+            <a class="btn btn-o" href="#contact" data-action="book">Book Home Collection</a>
+          </div>
 
-/* =====================================================================
-   NAVIGATION, SCROLL EFFECTS AND ANIMATION
-   ===================================================================== */
-const nav = $("#mainNav"), menuBtn = $("#menuBtn"), scrim = $("#scrim");
-function setMenu(open) {
-  nav.classList.toggle("open", open);
-  scrim.hidden = !open;
-  menuBtn.setAttribute("aria-expanded", String(open));
-  menuBtn.setAttribute("aria-label", open ? "Close menu" : "Open menu");
-}
-menuBtn.addEventListener("click", () => setMenu(!nav.classList.contains("open")));
-scrim.addEventListener("click", () => setMenu(false));
-$$("a", nav).forEach((a) => a.addEventListener("click", () => setMenu(false)));
-document.addEventListener("keydown", (e) => { if (e.key === "Escape") { setMenu(false); menuBtn.focus(); } });
+          <p class="small">
+            Please contact the lab to confirm test availability, prices,
+            preparation instructions and report timings before visiting.
+          </p>
+        </div>
+      </div>
 
-// Scroll progress, back-to-top and hero parallax share one rAF-throttled handler
-const bar = $("#progress"), toTop = $("#toTop"), heroImg = $("#heroImg"), heroArt = $("#heroArt");
-// Hero video: hide the SVG fallback once it plays; respect reduced motion
-(function heroVideo() {
-  const v = heroImg, fig = v.closest(".hero-photo");
-  const on = () => { if (v.currentTime > 0 && !v.paused) fig.classList.add("vid-on"); };
-  ["playing", "timeupdate"].forEach((ev) => v.addEventListener(ev, on));
-  on();
-  if (reduceMotion) { v.removeAttribute("autoplay"); v.removeAttribute("loop"); v.pause(); }
-  else v.play?.().catch(() => {});
-  document.addEventListener("visibilitychange", () => { if (reduceMotion) return; document.hidden ? v.pause() : v.play?.().catch(() => {}); });
-})();
-let ticking = false;
-function onScroll() {
-  const y = window.scrollY, max = document.documentElement.scrollHeight - window.innerHeight;
-  bar.style.transform = "scaleX(" + (max > 0 ? y / max : 0) + ")";
-  toTop.hidden = y < 700;
-  if (!reduceMotion) {
-    document.documentElement.style.setProperty("--sy", Math.min(y, 2500));
-    if (y < 900) { const t = "translateY(" + (y * 0.12) + "px)"; heroImg.style.transform = t; heroArt.style.transform = t; }
-  }
-  ticking = false;
-}
-window.addEventListener("scroll", () => { if (!ticking) { ticking = true; requestAnimationFrame(onScroll); } }, { passive: true });
-onScroll();
-toTop.addEventListener("click", () => { window.scrollTo({ top: 0, behavior: reduceMotion ? "auto" : "smooth" }); $("#home").focus?.(); });
+      <!-- Enquiry form -->
+      <div class="form-card reveal">
+        <h3>Book Home Collection</h3>
+        <p class="small">
+          Select your tests, then add your address and a preferred date and time. We open WhatsApp with your
+          request ready to send, and the lab confirms your slot there. Visiting the lab instead?
+          No booking needed.
+        </p>
 
-// Active nav link
-if ("IntersectionObserver" in window) {
-  const links = $$(".nav a");
-  const spy = new IntersectionObserver((entries) => entries.forEach((en) => {
-    if (en.isIntersecting) links.forEach((a) => a.classList.toggle("active", a.getAttribute("href") === "#" + en.target.id));
-  }), { rootMargin: "-45% 0px -50% 0px" });
-  ["home", "tests", "packages", "offers", "why", "contact"].forEach((id) => spy.observe($("#" + id)));
-}
+        <form id="enquiryForm" novalidate>
+          <div class="f-row">
+            <div class="field">
+              <label for="patientName">Your Name *</label>
+              <input
+                id="patientName"
+                name="name"
+                type="text"
+                autocomplete="name"
+                required
+                aria-describedby="e-name"
+              />
+              <span class="err" id="e-name" role="alert"></span>
+            </div>
 
-// Reveal (staggered via --i) and count-up
-function countUp(el) {
-  const end = Number(el.dataset.count), suffix = el.dataset.suffix || "";
-  if (reduceMotion || !end) { el.textContent = end + suffix; return; }
-  const start = performance.now(), dur = 1200;
-  (function tick(now) {
-    const p = Math.min((now - start) / dur, 1);
-    el.textContent = Math.round(end * (1 - Math.pow(1 - p, 3))) + suffix;
-    if (p < 1) requestAnimationFrame(tick);
-  })(start);
-}
-$$(".sec-h").forEach((el) => el.classList.add("reveal"));
-$$(".split > div:first-child, .contact-grid > div:first-child").forEach((el) => el.classList.add("fx-left"));
-$$(".split > figure, .form-card").forEach((el) => el.classList.add("fx-right"));
-$$(".wide-photo, .banner").forEach((el) => el.classList.add("fx-zoom"));
-$$(".lab-tile").forEach((el, i) => { el.style.setProperty("--i", i); el.addEventListener("click", () => { el.classList.remove("tap"); void el.offsetWidth; el.classList.add("tap"); }); });
-$$("#why .card, .steps li").forEach((el, i) => el.style.setProperty("--i", i % 6));
-if ("IntersectionObserver" in window && !reduceMotion) {
-  const io = new IntersectionObserver((entries, o) => entries.forEach((en) => {
-    if (!en.isIntersecting) return;
-    en.target.classList.add("in");
-    o.unobserve(en.target);
-  }), { threshold: 0.12, rootMargin: "0px 0px -30px 0px" });
-  $$(".reveal").forEach((el) => io.observe(el));
-  const so = new IntersectionObserver((entries, o) => entries.forEach((en) => {
-    if (!en.isIntersecting) return;
-    $$("[data-count]", en.target).forEach(countUp);
-    o.unobserve(en.target);
-  }), { threshold: 0.4 });
-  so.observe($(".stats"));
-  so.observe($(".legacy"));
-} else {
-  $$(".reveal").forEach((el) => el.classList.add("in"));
-  $$("[data-count]").forEach(countUp);
-}
+            <div class="field">
+              <label for="patientPhone">Phone Number *</label>
+              <input
+                id="patientPhone"
+                name="phone"
+                type="tel"
+                inputmode="tel"
+                autocomplete="tel"
+                required
+                aria-describedby="e-phone"
+              />
+              <span class="err" id="e-phone" role="alert"></span>
+            </div>
+          </div>
 
-/* Hide a photo slot whose file is missing so the instrument art shows through */
-$$(".photo img").forEach((img) => {
-  const miss = () => img.parentElement.classList.add("nophoto");
-  if (img.complete && img.naturalWidth === 0) miss();
-  img.addEventListener("error", miss);
-});
+          <div class="field">
+            <label for="patientArea">Address for Sample Collection *</label>
+            <textarea id="patientArea" name="area" rows="2" autocomplete="street-address" required aria-describedby="e-area" placeholder="House no., street, area, landmark"></textarea>
+            <span class="err" id="e-area" role="alert"></span>
+          </div>
 
-/* INITIAL RENDER */
-renderCatalogue();
-/* Premium scroll interactions */
-(() => {
-  "use strict";
+          <div class="field">
+            <label id="fcLabel">Tests / packages *</label>
+            <div class="form-cart" id="formCart" aria-labelledby="fcLabel"></div>
+            <span class="err" id="e-cart" role="alert"></span>
+          </div>
 
-  const header = document.querySelector(".site-header");
-  const progress = document.getElementById("progress");
-  const navLinks = [
-    ...document.querySelectorAll("#mainNav a[href^='#']")
-  ];
+          <div class="f-row">
+            <div class="field">
+              <label for="prefDate">Collection Date</label>
+              <input
+                id="prefDate"
+                name="date"
+                type="date"
+                aria-describedby="e-date"
+              />
+              <span class="err" id="e-date" role="alert"></span>
+            </div>
 
-  if (!header) return;
+            <div class="field">
+              <label for="prefTime">Collection Time</label>
+              <input
+                id="prefTime"
+                name="time"
+                type="time"
+                min="07:00"
+                max="20:30"
+                aria-describedby="e-time"
+              />
+              <span class="err" id="e-time" role="alert"></span>
+            </div>
+          </div>
 
-  let ticking = false;
+          <div class="field">
+            <label for="patientMessage">Message</label>
+            <textarea
+              id="patientMessage"
+              name="message"
+              rows="4"
+              placeholder="Anything else the lab should know (optional)"
+            ></textarea>
+          </div>
 
-  function updateScrollEffects() {
-    const scrollTop = window.scrollY;
-    const maxScroll =
-      document.documentElement.scrollHeight - window.innerHeight;
+          <button class="btn btn-p" type="submit">
+            Book Home Collection
+          </button>
+        </form>
 
-    header.classList.toggle("scrolled", scrollTop > 12);
+        <div class="result" id="result" hidden>
+          <p class="ok" id="resultMsg" role="status">
+            Your request is ready. Send it in WhatsApp so the lab can confirm your slot.
+          </p>
 
-    if (progress) {
-      const percentage =
-        maxScroll > 0 ? scrollTop / maxScroll : 0;
+          <label class="sr" for="enquiryText">Enquiry text</label>
+          <textarea id="enquiryText" rows="8" readonly></textarea>
 
-      progress.style.transform =
-        `scaleX(${Math.min(1, Math.max(0, percentage))})`;
-    }
+          <div class="cart-btns">
+            <button class="btn btn-p" id="copyBtn" type="button">
+              Copy Request
+            </button>
+            <button class="btn btn-o" id="waBtn" type="button">
+              Open WhatsApp
+            </button>
+          </div>
 
-    ticking = false;
-  }
+          <p class="small" id="waNote"></p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
-  window.addEventListener("scroll", () => {
-    if (!ticking) {
-      ticking = true;
-      window.requestAnimationFrame(updateScrollEffects);
-    }
-  }, { passive: true });
+</main>
 
-  updateScrollEffects();
 
-  // Highlight the current navigation destination.
-  const sections = navLinks
-    .map(link => {
-      const target = document.querySelector(link.getAttribute("href"));
-      return target ? { link, target } : null;
-    })
-    .filter(Boolean);
+<!-- 14. FOOTER -->
+<footer class="site-footer">
+  <div class="wrap foot-grid">
+    <div><strong class="f-name">Shiva Sathvik Diagnostic Lab &amp; X-ray Imaging</strong><p>Chikkaballapur.<br>Your Health, Our Priority.<br>Accurate Tests. Caring Service.</p></div>
+    <nav aria-label="Footer"><h4>Links</h4><a href="#home">Home</a><a href="#tests">Tests</a><a href="#packages">Packages</a><a href="#offers">Offers</a></nav>
+    <div><h4>Services</h4><a href="#collection">Home collection</a><a href="#how">How it works</a><a href="#faq">FAQs</a></div>
+    <div><h4>Visit</h4><p>Behind Sadhur Matt, Chikkaballapur, Karnataka 562101</p><p>Mon–Sat, 7:00 AM–8:30 PM</p><a data-phone href="#contact">Call</a></div>
+  </div>
+  <div class="wrap foot-note">
+    <p>Test prices are from the lab's displayed price list. Packages and offers are samples. Please confirm with the lab.</p>
+    <p>© <span id="year"></span> Shiva Sathvik Diagnostic Lab &amp; X-ray Imaging. All rights reserved.</p>
+  </div>
+</footer>
 
-  if ("IntersectionObserver" in window) {
-    const observer = new IntersectionObserver(entries => {
-      const visible = entries
-        .filter(entry => entry.isIntersecting)
-        .sort((a, b) => b.intersectionRatio - a.intersectionRatio);
+<nav class="tabbar" aria-label="Quick navigation">
+  <a href="#home" data-sec="home" class="on"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 11l9-8 9 8"/><path d="M5 10v10h5v-6h4v6h5V10"/></svg><span>Home</span></a>
+  <a href="#tests" data-sec="popular"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 3h6"/><path d="M10 3v6L4.5 19a2 2 0 0 0 1.8 3h11.4a2 2 0 0 0 1.8-3L14 9V3"/></svg><span>Tests</span></a>
+  <a href="#contact" class="tb-book" data-action="book"><i><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 6h2l2.5 11h9L19 9H6"/><circle cx="9" cy="20" r="1.3"/><circle cx="17" cy="20" r="1.3"/></svg><em class="cart-n" hidden>0</em></i><span>My Tests</span></a>
+  <a href="#offers" data-sec="offers"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19 5L5 19"/><circle cx="7" cy="7" r="2.2"/><circle cx="17" cy="17" r="2.2"/></svg><span>Offers</span></a>
+  <a href="tel:9343601092"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2z"/></svg><span>Call</span></a>
+</nav>
 
-      if (!visible.length) return;
+<!-- 15. FLOATING CONTROLS -->
+<div class="floaters">
+  <a class="fab fab-offer glow" href="#offers" aria-label="See offers"><span aria-hidden="true">%</span> <span class="fab-t">Offers</span></a>
+  <button class="fab fab-top" id="toTop" type="button" aria-label="Back to top" hidden>↑</button>
+  <button class="fab fab-wa" id="waFab" type="button" aria-label="Open My Tests">My Tests <em class="cart-n" hidden>0</em></button>
+  <a class="fab fab-call" data-phone href="#contact" aria-label="Call the lab">Call</a>
+</div>
 
-      const current = sections.find(
-        section => section.target === visible[0].target
-      );
+<dialog id="cartDialog" aria-labelledby="ctTitle">
+  <div class="bk-head"><span class="bk-ico" aria-hidden="true">✚</span><h3 id="ctTitle">My Tests</h3><button class="ct-x" id="ctClose" type="button" aria-label="Close">×</button></div>
+  <div class="ct-body">
+    <div class="ct-empty" id="ctEmpty">
+      <p><strong>No tests selected yet.</strong> Choose one or more tests or packages to book home collection.</p>
+      <button class="btn btn-o" id="ctBrowse" type="button">Browse tests</button>
+    </div>
+    <ul class="ct-list" id="ctList" aria-live="polite"></ul>
+    <div class="ct-total" id="ctTotal" hidden><span>Estimated total</span><b id="ctSum"></b></div>
+    <p class="small">Estimate only. The lab confirms the final amount.</p>
+    <div class="bk-msg">
+      <span class="bk-wa" aria-hidden="true">✆</span>
+      <p>Your list opens in <strong>WhatsApp</strong>. The lab confirms your slot there. Share your <strong>name, address and preferred date and time</strong>, and attach your doctor's prescription if you have one.</p>
+    </div>
+    <div class="cart-btns bk-btns">
+      <a class="btn btn-p" id="ctGo" href="#" target="_blank" rel="noopener noreferrer" aria-disabled="true">Book Home Collection</a>
+      <button class="btn btn-o" id="ctMore" type="button">Add more tests</button>
+    </div>
+    <p class="small" id="ctHint" role="status"></p>
+    <p class="small">Visiting the lab instead? No booking needed. Just walk in.</p>
+  </div>
+</dialog>
 
-      if (!current) return;
-
-      navLinks.forEach(link => {
-        if (link === current.link) {
-          link.classList.add("active");
-          link.setAttribute("aria-current", "location");
-        } else {
-          link.classList.remove("active");
-          link.removeAttribute("aria-current");
-        }
-      });
-    }, {
-      rootMargin: "-20% 0px -60% 0px",
-      threshold: [0, 0.25, 0.5]
-    });
-
-    sections.forEach(section => observer.observe(section.target));
-  }
-
-  // Keep the existing reveal animations, but ensure content
-  // remains accessible if IntersectionObserver is unavailable.
-  if (!("IntersectionObserver" in window)) {
-    document.querySelectorAll(".reveal").forEach(element => {
-      element.classList.add("in");
-    });
-  }
-})();
-
-/* Hero: every 5 seconds the full "30+ years" animation replaces the headline block, then it
-   switches back. The search box, buttons and trust line never change. */
-(() => {
-  const hero = document.getElementById("home");
-  const tk = document.getElementById("heroTicks");
-  if (!hero || !tk) return;
-  for (let i = 0; i < 30; i++) { const s = document.createElement("i"); s.style.setProperty("--i", i); if ((i + 1) % 10 === 0) s.className = "big"; tk.append(s); }
-  if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
-  const num = hero.querySelector(".hy-num b");
-  const count = () => {
-    const t0 = performance.now();
-    (function tick(now) {
-      const p = Math.min((now - t0) / 1200, 1);
-      num.textContent = Math.round(30 * (1 - Math.pow(1 - p, 3))) + "+";
-      if (p < 1) requestAnimationFrame(tick);
-    })(t0);
-  };
-  let timer = null;
-  const flip = () => { const on = hero.classList.toggle("yrs-on"); if (on) count(); };
-  const start = () => { if (!timer) timer = setInterval(flip, 5000); };
-  const stop = () => { clearInterval(timer); timer = null; };
-  start();
-  document.addEventListener("visibilitychange", () => (document.hidden ? stop() : start()));
-})();
-
-/* Mobile app layer: lock scroll behind the menu, highlight the active tab-bar item */
-(() => {
-  const nav = document.getElementById("mainNav");
-  if (nav) new MutationObserver(() => document.documentElement.classList.toggle("no-scroll", nav.classList.contains("open")))
-    .observe(nav, { attributes: true, attributeFilter: ["class"] });
-  matchMedia("(min-width:901px)").addEventListener?.("change", (e) => { if (e.matches) setMenu(false); });
-  const tabs = [...document.querySelectorAll(".tabbar a[data-sec]")];
-  if (!tabs.length || !("IntersectionObserver" in window)) return;
-  const io = new IntersectionObserver((es) => es.forEach((en) => {
-    if (en.isIntersecting) tabs.forEach((a) => a.classList.toggle("on", a.dataset.sec === en.target.id));
-  }), { rootMargin: "-45% 0px -50% 0px" });
-  tabs.forEach((a) => { const el = document.getElementById(a.dataset.sec); if (el) io.observe(el); });
-})();
+<dialog id="detail" aria-labelledby="dTitle">
+  <h3 id="dTitle"></h3>
+  <p id="dDesc"></p>
+  <dl class="facts" id="dFacts"></dl>
+  <p class="small">Confirm preparation, price and report time with the lab. Visiting the lab? No booking needed, just walk in.</p>
+  <div class="cart-btns"><button class="btn btn-p" id="dAdd" type="button">Add to My Tests</button><button class="btn btn-o" id="dClose" type="button">Close</button></div>
+</dialog>
+<dialog id="askDialog" aria-labelledby="askT">
+  <h3 id="askT"></h3>
+  <p id="askM"></p>
+  <div class="cart-btns" id="askBtns"></div>
+</dialog>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<script src="script.js"></script>
+</body>
+</html>
