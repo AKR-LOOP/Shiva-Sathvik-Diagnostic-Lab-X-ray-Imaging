@@ -782,13 +782,118 @@ html {
 @media(max-width:1000px){.stat-grid{grid-template-columns:repeat(2,1fr)}.stat-grid>div:last-child{grid-column:1/-1}}
 @media(max-width:640px){.stat-grid{grid-template-columns:1fr 1fr}}
 
-/* ---- Desktop / wide-screen polish ---- */
-/* Slide-in animations must never create sideways scroll */
-main{overflow-x:clip}
-/* Hero keeps its proportions on big monitors so the instruments are not cropped */
-@media(min-width:1200px){.hero{min-height:clamp(640px,40vw,800px)}}
-@media(min-width:1600px){.wrap{width:min(1280px,calc(100% - 80px))}.hero-c>*{max-width:640px}.hero-swap{max-width:640px}}
-/* Five offers sit in one tidy row instead of 4 + 1 */
-@media(min-width:1000px){#offerGrid{grid-template-columns:repeat(5,1fr);gap:16px}#offerGrid .card{padding:20px}#offerGrid .benefit{font-size:1.15rem}}
-/* Package and popular cards line up neatly */
-@media(min-width:1000px){#pkgGrid{grid-template-columns:repeat(4,1fr)}}
+/* =====================================================================
+   MOBILE APP LAYER
+   ===================================================================== */
+
+/* 1. Stop the page drifting right / showing white space */
+html{-webkit-text-size-adjust:100%;overscroll-behavior-x:none;overflow-x:hidden}
+body{overflow-x:visible;max-width:100%}
+@supports (overflow:clip){html,body{overflow-x:clip}}
+a,button,summary{-webkit-tap-highlight-color:transparent;touch-action:manipulation}
+.contact-grid>*,.split>*,.legacy-grid>*,.cat-layout>*{min-width:0}
+html.no-scroll,html.no-scroll body{overflow:hidden}
+.tabbar{display:none}
+@media(min-width:641px){.f-row{grid-template-columns:repeat(2,minmax(0,1fr))}}
+
+@media(max-width:900px){
+  /* backdrop-filter made the header the containing block of the fixed menu,
+     pushing the off-screen drawer outside the page = sideways scroll */
+  .site-header,.site-header.scrolled{backdrop-filter:none;-webkit-backdrop-filter:none;background:#fff}
+  /* slide-in-from-the-side reveals widen the page; use a vertical rise instead */
+  .reveal.fx-left,.reveal.fx-right{transform:translateY(22px)}
+  .reveal.fx-left.in,.reveal.fx-right.in,.reveal.fx-zoom.in{transform:none}
+  .split,.contact-grid{grid-template-columns:minmax(0,1fr)}
+  .nav{width:min(340px,88vw);padding:84px 20px 24px;overflow-y:auto;overscroll-behavior:contain}
+  .nav a{min-height:52px;display:flex;align-items:center;font-size:1.05rem}
+}
+
+/* 2. App-style layout on phones */
+@media(max-width:768px){
+  :root{--tabh:68px}
+  body{padding-bottom:calc(var(--tabh) + env(safe-area-inset-bottom,0px))}
+  .wrap,.narrow{width:calc(100% - 32px)}
+  .marquee{font-size:.72rem;padding:6px 0}
+
+  /* header */
+  .bar{min-height:58px;gap:10px}
+  .cross{width:36px;height:36px}
+  .brand-t strong{font-size:.9rem}
+  .brand-t small{font-size:.68rem}
+  .menu-btn{width:44px;height:44px}
+
+  /* bottom tab bar */
+  .tabbar{display:grid;grid-template-columns:repeat(5,1fr);align-items:end;position:fixed;left:0;right:0;bottom:0;z-index:190;background:rgba(255,255,255,.97);border-top:1px solid var(--line);padding:6px 6px calc(6px + env(safe-area-inset-bottom,0px));box-shadow:0 -8px 28px rgba(7,51,44,.1)}
+  .tabbar a{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;min-height:52px;font-size:.68rem;font-weight:700;color:var(--muted);border-radius:14px}
+  .tabbar svg{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:1.9;stroke-linecap:round;stroke-linejoin:round}
+  .tabbar a.on{color:var(--teal-d)}
+  .tabbar a:active{background:var(--mint)}
+  .tb-book{color:#128C4A!important}
+  .tb-book i{display:grid;place-items:center;width:52px;height:52px;margin-top:-28px;border-radius:50%;background:#128C4A;border:4px solid #fff;box-shadow:0 8px 20px rgba(18,140,74,.4)}
+  .tb-book svg{stroke:#fff;stroke-width:2.4}
+
+  /* floating buttons: tab bar replaces them */
+  .floaters{bottom:calc(var(--tabh) + 14px + env(safe-area-inset-bottom,0px));right:12px}
+  .fab-offer,.fab-wa,.fab-call{display:none}
+  .toast{bottom:calc(var(--tabh) + 20px + env(safe-area-inset-bottom,0px))}
+
+  /* hero */
+  .hero{min-height:0}
+  .hero-c{padding:30px 0 40px}
+  .hero h1{font-size:clamp(2rem,9.5vw,2.6rem)}
+  .tagline{font-size:1.05rem;margin-top:10px}
+  .lead{font-size:.95rem}
+  .hero-search{flex-direction:row;margin-top:20px;padding:5px;border-radius:16px}
+  .hero-search input{font-size:16px;min-height:46px}
+  .hero-search .btn{padding:0 18px}
+  .hero-btns{flex-direction:column;margin-top:14px}
+  .hero-btns .btn{width:100%;min-height:50px}
+  .trust{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:22px}
+  .trust li{background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.14);border-radius:12px;padding:10px 12px;font-size:.76rem;line-height:1.35}
+
+  /* sections */
+  .sec{padding:44px 0}
+  h2{font-size:1.55rem}
+  .sec-h{margin-bottom:18px}
+  .stat-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;padding:20px 0}
+  .stat-grid>div{background:rgba(255,255,255,.07);border-radius:14px;padding:14px 10px}
+  .stat-grid b{font-size:1.55rem}
+  .stat-grid span{font-size:.74rem}
+  .cards,.cards.three{grid-template-columns:minmax(0,1fr)}
+  .card{padding:20px}
+  .facts div{flex-direction:column;gap:2px}
+  .facts dt{min-width:0}
+
+  /* swipeable card rows */
+  #popularGrid,#pkgGrid,#offerGrid{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;gap:14px;margin-inline:-16px;padding:6px 16px 18px;scroll-padding-inline:16px;scrollbar-width:none;-webkit-overflow-scrolling:touch}
+  #popularGrid::-webkit-scrollbar,#pkgGrid::-webkit-scrollbar,#offerGrid::-webkit-scrollbar,.tabs::-webkit-scrollbar{display:none}
+  #popularGrid>.card,#pkgGrid>.card,#offerGrid>.card{flex:0 0 82%;max-width:320px;scroll-snap-align:start;opacity:1;transform:none}
+  .pop-head{display:block}
+
+  /* catalogue */
+  .tabs{flex-wrap:nowrap;overflow-x:auto;margin-inline:-16px;padding:2px 16px 8px;scrollbar-width:none}
+  .tab{flex:0 0 auto;min-height:40px;padding:8px 16px}
+  .finder input,.field input,.field select,.field textarea,.result textarea{font-size:16px;min-height:48px}
+  .row{padding:14px}
+  .row .rb{min-height:46px}
+
+  /* forms */
+  .form-card{padding:20px;border-radius:20px}
+  .field input[type=date],.field input[type=time]{min-width:0;appearance:none;-webkit-appearance:none}
+  .btn{min-height:48px}
+  .contact-actions .btn,.cart-btns .btn{width:100%}
+  .faq-q{min-height:52px;padding:14px 0}
+  .legacy{padding:34px 18px 100px;border-radius:20px}
+  .site-footer{padding-top:40px}
+
+  /* dialogs become bottom sheets */
+  dialog#bookDialog,dialog#detail{width:100%;max-width:100%;margin:auto 0 0;border-radius:24px 24px 0 0;max-height:92dvh;overflow:auto;animation:sheetUp .35s var(--ease-premium)}
+  dialog#detail{padding:24px 20px calc(20px + env(safe-area-inset-bottom,0px))}
+  #bookDialog .bk-btns{margin-bottom:calc(20px + env(safe-area-inset-bottom,0px))}
+  @keyframes sheetUp{from{transform:translateY(100%)}to{transform:none}}
+}
+
+/* no sticky hover effects on touch screens */
+@media(hover:none){
+  .card:hover,#results .row:hover,.btn:hover,.lg-pills li:hover{transform:none;box-shadow:none}
+}
