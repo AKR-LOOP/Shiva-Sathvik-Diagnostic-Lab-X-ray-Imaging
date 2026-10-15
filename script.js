@@ -781,3 +781,17 @@ renderCatalogue();
   start();
   document.addEventListener("visibilitychange", () => (document.hidden ? stop() : start()));
 })();
+
+/* Mobile app layer: lock scroll behind the menu, highlight the active tab-bar item */
+(() => {
+  const nav = document.getElementById("mainNav");
+  if (nav) new MutationObserver(() => document.documentElement.classList.toggle("no-scroll", nav.classList.contains("open")))
+    .observe(nav, { attributes: true, attributeFilter: ["class"] });
+  matchMedia("(min-width:901px)").addEventListener?.("change", (e) => { if (e.matches) setMenu(false); });
+  const tabs = [...document.querySelectorAll(".tabbar a[data-sec]")];
+  if (!tabs.length || !("IntersectionObserver" in window)) return;
+  const io = new IntersectionObserver((es) => es.forEach((en) => {
+    if (en.isIntersecting) tabs.forEach((a) => a.classList.toggle("on", a.dataset.sec === en.target.id));
+  }), { rootMargin: "-45% 0px -50% 0px" });
+  tabs.forEach((a) => { const el = document.getElementById(a.dataset.sec); if (el) io.observe(el); });
+})();
