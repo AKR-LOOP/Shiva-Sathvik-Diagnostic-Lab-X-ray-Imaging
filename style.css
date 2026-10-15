@@ -776,3 +776,19 @@ html {
 }
 @media(prefers-reduced-motion:reduce){.hero-years,.hero-ecg,.hero-legacy{display:none}}
 .hero-ecg path{fill:none;stroke-linecap:round;stroke-linejoin:round}
+
+/* 5-item stats strip */
+.stat-grid{grid-template-columns:repeat(5,1fr)}
+@media(max-width:1000px){.stat-grid{grid-template-columns:repeat(2,1fr)}.stat-grid>div:last-child{grid-column:1/-1}}
+@media(max-width:640px){.stat-grid{grid-template-columns:1fr 1fr}}
+
+/* ---- Desktop / wide-screen polish ---- */
+/* Slide-in animations must never create sideways scroll */
+main{overflow-x:clip}
+/* Hero keeps its proportions on big monitors so the instruments are not cropped */
+@media(min-width:1200px){.hero{min-height:clamp(640px,40vw,800px)}}
+@media(min-width:1600px){.wrap{width:min(1280px,calc(100% - 80px))}.hero-c>*{max-width:640px}.hero-swap{max-width:640px}}
+/* Five offers sit in one tidy row instead of 4 + 1 */
+@media(min-width:1000px){#offerGrid{grid-template-columns:repeat(5,1fr);gap:16px}#offerGrid .card{padding:20px}#offerGrid .benefit{font-size:1.15rem}}
+/* Package and popular cards line up neatly */
+@media(min-width:1000px){#pkgGrid{grid-template-columns:repeat(4,1fr)}}
